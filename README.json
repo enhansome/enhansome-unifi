@@ -208,10 +208,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T21:23:02Z",
+            "last_commit": "2026-08-14T21:03:54Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 945
+            "stars": 946
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-04-27T10:30:38Z",
             "owner": "Crosstalk-Solutions",
             "repo": "unifi-toolkit",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2024-08-18T10:10:24Z",
             "owner": "Unifi-Tools",
             "repo": "UFiber.Configurator",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-06-11T16:49:57Z",
             "owner": "scyto",
             "repo": "docker-UnifiBrowser",
-            "stars": 42
+            "stars": 41
           }
         },
         {
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T21:20:46Z",
+            "last_commit": "2026-08-14T20:55:23Z",
             "owner": "carverauto",
             "repo": "serviceradar",
             "stars": 900
@@ -562,7 +562,7 @@
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 261
+            "stars": 262
           }
         }
       ],
@@ -626,7 +626,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T14:25:20Z",
+            "last_commit": "2026-08-14T13:11:55Z",
             "owner": "ufozone",
             "repo": "ha-unifi-voucher",
             "stars": 79
@@ -911,7 +911,7 @@
             "last_commit": "2026-07-22T19:55:13Z",
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -925,7 +925,7 @@
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -1040,7 +1040,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:01:52Z",
+            "last_commit": "2026-08-14T04:49:42Z",
             "owner": "willswire",
             "repo": "unifi-ddns",
             "stars": 1280
@@ -1088,10 +1088,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T00:33:11Z",
+            "last_commit": "2026-08-14T00:33:34Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1669
+            "stars": 1673
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2024-05-02T22:27:20Z",
             "owner": "zhangyoufu",
             "repo": "unifi-backup-decrypt",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2026-08-09T20:16:57Z",
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 235
+            "stars": 236
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2023-05-22T03:38:28Z",
             "owner": "cdchris12",
             "repo": "UDM-DNS-Fix",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-13T18:53:53Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 677
+            "stars": 683
           }
         },
         {
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:30:39.318Z",
+    "last_updated": "2026-08-14T21:08:38.563Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
     "enhanced_repository": "enhansome/enhansome-unifi",
