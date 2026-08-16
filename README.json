@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T22:41:51Z",
+            "last_commit": "2026-08-16T11:11:38Z",
             "owner": "thib3113",
             "repo": "unifi-client",
             "stars": 46
@@ -208,10 +208,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T19:44:24Z",
+            "last_commit": "2026-08-16T20:49:04Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 950
+            "stars": 960
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-10T09:54:38Z",
             "owner": "unpoller",
             "repo": "unpoller",
-            "stars": 2682
+            "stars": 2683
           }
         },
         {
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T20:19:22Z",
+            "last_commit": "2026-08-16T20:58:15Z",
             "owner": "carverauto",
             "repo": "serviceradar",
-            "stars": 900
+            "stars": 901
           }
         },
         {
@@ -1040,7 +1040,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:45:32Z",
+            "last_commit": "2026-08-16T04:31:27Z",
             "owner": "willswire",
             "repo": "unifi-ddns",
             "stars": 1280
@@ -1054,7 +1054,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:29:28Z",
+            "last_commit": "2026-08-16T17:37:56Z",
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
             "stars": 318
@@ -1091,7 +1091,7 @@
             "last_commit": "2026-08-14T00:33:34Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1673
+            "stars": 1676
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2023-07-10T02:38:16Z",
             "owner": "peacey",
             "repo": "split-vpn",
-            "stars": 841
+            "stars": 842
           }
         },
         {
@@ -1229,7 +1229,7 @@
             "last_commit": "2026-07-15T18:21:47Z",
             "owner": "glenndehaan",
             "repo": "unifi-voucher-site",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -1305,7 +1305,7 @@
             "last_commit": "2025-06-22T15:26:12Z",
             "owner": "fabianishere",
             "repo": "udm-iptv",
-            "stars": 621
+            "stars": 622
           }
         },
         {
@@ -1650,10 +1650,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:53:53Z",
+            "last_commit": "2026-08-16T20:34:45Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 686
+            "stars": 691
           }
         },
         {
@@ -1678,10 +1678,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T19:19:31Z",
+            "last_commit": "2026-08-16T06:33:26Z",
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 227
+            "stars": 229
           }
         },
         {
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:02:00.481Z",
+    "last_updated": "2026-08-16T21:01:08.559Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
     "enhanced_repository": "enhansome/enhansome-unifi",
