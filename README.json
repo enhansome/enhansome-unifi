@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 167286522,
                 "language": "Go",
-                "last_commit": "2026-08-18T20:27:23Z",
+                "last_commit": "2026-08-19T17:09:29Z",
                 "owner": "unpoller",
                 "repo": "unifi",
                 "stars": 152
@@ -226,10 +226,10 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-19T03:22:37Z",
+            "last_commit": "2026-08-19T20:46:01Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-07T02:17:22Z",
             "owner": "jacobalberty",
             "repo": "unifi-docker",
-            "stars": 2613
+            "stars": 2614
           }
         },
         {
@@ -480,7 +480,7 @@
                 "archived": false,
                 "id": 130408606,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:59:05Z",
+                "last_commit": "2026-08-19T20:14:49Z",
                 "owner": "unpoller",
                 "repo": "unpoller",
                 "stars": 2685
@@ -584,10 +584,10 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-19T10:50:29Z",
+                "last_commit": "2026-08-19T20:18:58Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 906
+                "stars": 907
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2026-06-30T08:44:05Z",
                 "owner": "jmasarweh",
                 "repo": "UniFi-Insights-Plus",
-                "stars": 262
+                "stars": 263
               }
             }
           ],
@@ -858,7 +858,7 @@
             "last_commit": "2026-06-15T15:52:56Z",
             "owner": "petergeneric",
             "repo": "unifi-protect-remux",
-            "stars": 338
+            "stars": 339
           }
         }
       ],
@@ -996,7 +996,7 @@
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -1521,7 +1521,7 @@
             "last_commit": "2026-07-29T14:20:33Z",
             "owner": "esmith443",
             "repo": "Verizon-ONT-Bypass",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -1773,7 +1773,7 @@
             "last_commit": "2026-08-17T23:17:02Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 710
+            "stars": 716
           }
         },
         {
@@ -1788,7 +1788,7 @@
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -1803,7 +1803,7 @@
             "last_commit": "2026-08-19T03:18:12Z",
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:28.774Z",
+    "last_updated": "2026-08-19T21:10:45.698Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_id": 1158881005,
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
