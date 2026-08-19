@@ -1,176 +1,191 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ubiquiti-community/py-unifi",
+              "description": "Python UniFi API Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745459928,
+                "language": "Python",
+                "last_commit": "2026-07-20T19:52:59Z",
+                "owner": "ubiquiti-community",
+                "repo": "py-unifi",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tnware/unifi-controller-api",
+              "description": "Python client library for interacting with Ubiquiti UniFi Network Controllers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960700827,
+                "language": "Python",
+                "last_commit": "2026-06-15T17:26:28Z",
+                "owner": "tnware",
+                "repo": "unifi-controller-api",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jens-maus/node-unifi",
+              "description": "Node.js class for querying and controlling UniFi Controllers across all hardware platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80537647,
+                "language": "JavaScript",
+                "last_commit": "2026-05-29T21:28:34Z",
+                "owner": "jens-maus",
+                "repo": "node-unifi",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thib3113/unifi-client",
+              "description": "Node.js client for UniFi products.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350072947,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T11:11:38Z",
+                "owner": "thib3113",
+                "repo": "unifi-client",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js / JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "paultyng/go-unifi",
+              "description": "UniFi Controller API SDK for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 233111588,
+                "language": "Go",
+                "last_commit": "2026-04-28T12:44:37Z",
+                "owner": "paultyng",
+                "repo": "go-unifi",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unpoller/unifi",
+              "description": "Go library to grab data from a Ubiquiti UniFi Controller (companion library used by UnPoller).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167286522,
+                "language": "Go",
+                "last_commit": "2026-08-18T20:27:23Z",
+                "owner": "unpoller",
+                "repo": "unifi",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClifHouck/unified",
+              "description": "Unofficial UniFi Network and Protect API client and CLI written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 974465148,
+                "language": "Go",
+                "last_commit": "2026-02-12T14:20:52Z",
+                "owner": "ClifHouck",
+                "repo": "unified",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KoenZomers/UniFiApi",
+              "description": "API in .NET 9 to fetch data from an on premises Ubiquiti UniFi Controller.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86397648,
+                "language": "C#",
+                "last_commit": "2026-07-11T19:05:06Z",
+                "owner": "KoenZomers",
+                "repo": "UniFiApi",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "schwoi/UnifiClient",
+              "description": ".NET Standard wrapper library for the Ubiquiti UniFi Controller.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144812873,
+                "language": "C#",
+                "last_commit": "2024-11-03T10:54:43Z",
+                "owner": "schwoi",
+                "repo": "UnifiClient",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dotMorten/UnifiClient",
+              "description": ".NET library for the Ubiquiti UniFi REST and WebSocket APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386485409,
+                "language": "C#",
+                "last_commit": "2023-04-28T23:09:28Z",
+                "owner": "dotMorten",
+                "repo": "UnifiClient",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET / C#"
+        }
+      ],
       "title": "API Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ubiquiti-community/py-unifi",
-          "description": "Python UniFi API Client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T19:52:59Z",
-            "owner": "ubiquiti-community",
-            "repo": "py-unifi",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tnware/unifi-controller-api",
-          "description": "Python client library for interacting with Ubiquiti UniFi Network Controllers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T17:26:28Z",
-            "owner": "tnware",
-            "repo": "unifi-controller-api",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jens-maus/node-unifi",
-          "description": "Node.js class for querying and controlling UniFi Controllers across all hardware platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-29T21:28:34Z",
-            "owner": "jens-maus",
-            "repo": "node-unifi",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thib3113/unifi-client",
-          "description": "Node.js client for UniFi products.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T11:11:38Z",
-            "owner": "thib3113",
-            "repo": "unifi-client",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Node.js / JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "paultyng/go-unifi",
-          "description": "UniFi Controller API SDK for Go.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-04-28T12:44:37Z",
-            "owner": "paultyng",
-            "repo": "go-unifi",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unpoller/unifi",
-          "description": "Go library to grab data from a Ubiquiti UniFi Controller (companion library used by UnPoller).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T20:27:23Z",
-            "owner": "unpoller",
-            "repo": "unifi",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClifHouck/unified",
-          "description": "Unofficial UniFi Network and Protect API client and CLI written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-12T14:20:52Z",
-            "owner": "ClifHouck",
-            "repo": "unified",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KoenZomers/UniFiApi",
-          "description": "API in .NET 9 to fetch data from an on premises Ubiquiti UniFi Controller.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-11T19:05:06Z",
-            "owner": "KoenZomers",
-            "repo": "UniFiApi",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "schwoi/UnifiClient",
-          "description": ".NET Standard wrapper library for the Ubiquiti UniFi Controller.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-11-03T10:54:43Z",
-            "owner": "schwoi",
-            "repo": "UnifiClient",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dotMorten/UnifiClient",
-          "description": ".NET library for the Ubiquiti UniFi REST and WebSocket APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-04-28T23:09:28Z",
-            "owner": "dotMorten",
-            "repo": "UnifiClient",
-            "stars": 15
-          }
-        }
-      ],
-      "title": ".NET / C#"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -179,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268284083,
             "language": "Shell",
             "last_commit": "2026-07-31T00:34:12Z",
             "owner": "unifi-utilities",
@@ -193,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45477976,
             "language": "PHP",
             "last_commit": "2026-02-24T14:46:17Z",
             "owner": "Art-of-WiFi",
@@ -207,11 +224,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-18T21:03:19Z",
+            "last_commit": "2026-08-19T03:22:37Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -221,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13485463,
             "language": "Shell",
             "last_commit": "2026-03-30T02:10:47Z",
             "owner": "unofficial-unifi",
@@ -235,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74870941,
             "language": "Shell",
             "last_commit": "2023-06-30T19:26:43Z",
             "owner": "stevejenkins",
@@ -249,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1107824454,
             "language": "Python",
             "last_commit": "2026-04-27T10:30:38Z",
             "owner": "Crosstalk-Solutions",
@@ -263,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157326300,
             "language": "Rust",
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
@@ -277,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361309753,
             "language": "C#",
             "last_commit": "2024-08-18T10:10:24Z",
             "owner": "Unifi-Tools",
@@ -291,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730041066,
             "language": "Go",
             "last_commit": "2026-07-17T20:57:33Z",
             "owner": "ZSamuels28",
@@ -305,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777477114,
             "language": "Python",
             "last_commit": "2025-04-01T17:56:08Z",
             "owner": "veteranbv",
@@ -319,6 +344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212642048,
             "language": "PHP",
             "last_commit": "2026-06-11T16:49:57Z",
             "owner": "scyto",
@@ -333,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989424817,
             "language": "PowerShell",
             "last_commit": "2025-05-24T05:36:38Z",
             "owner": "57",
@@ -344,7 +371,7 @@
       "title": "Controller & Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -353,11 +380,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30978978,
             "language": "Shell",
             "last_commit": "2026-08-07T02:17:22Z",
             "owner": "jacobalberty",
             "repo": "unifi-docker",
-            "stars": 2614
+            "stars": 2613
           }
         },
         {
@@ -367,6 +395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 687561903,
             "language": "Dockerfile",
             "last_commit": "2026-08-07T12:38:42Z",
             "owner": "linuxserver",
@@ -381,6 +410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51338232,
             "language": "Shell",
             "last_commit": "2026-08-18T17:14:30Z",
             "owner": "goofball222",
@@ -395,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199173141,
             "language": "Dockerfile",
             "last_commit": "2026-06-04T20:10:09Z",
             "owner": "Nico640",
@@ -409,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736278135,
             "language": "Shell",
             "last_commit": "2024-05-12T15:36:06Z",
             "owner": "GiuseppeGalilei",
@@ -423,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93170270,
             "language": "Shell",
             "last_commit": "2024-06-23T11:48:25Z",
             "owner": "jcberthon",
@@ -434,299 +467,324 @@
       "title": "Docker Images"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "unpoller/unpoller",
+              "description": "Collect all UniFi Controller, site, device, and client data and export to InfluxDB or Prometheus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130408606,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:59:05Z",
+                "owner": "unpoller",
+                "repo": "unpoller",
+                "stars": 2685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timothystewart6/unpoller-unifi",
+              "description": "Ready-to-run Docker Compose stack for monitoring UniFi networks with UnPoller, Prometheus, and Grafana (third-party deployment stack).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1120221761,
+                "language": null,
+                "last_commit": "2026-05-21T16:44:21Z",
+                "owner": "timothystewart6",
+                "repo": "unpoller-unifi",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unpoller/dashboards",
+              "description": "Pre-built Grafana dashboards for visualizing UnPoller data (companion dashboards).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230700250,
+                "language": "Shell",
+                "last_commit": "2026-06-15T03:40:01Z",
+                "owner": "unpoller",
+                "repo": "dashboards",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zygiss/snmp-exporter-unifi",
+              "description": "Prometheus SNMP exporter generator and SNMP configs for UniFi access points.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118251772,
+                "language": null,
+                "last_commit": "2023-07-15T20:05:35Z",
+                "owner": "zygiss",
+                "repo": "snmp-exporter-unifi",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prometheus & Grafana"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "patricegautier/unifiZabbix",
+              "description": "Comprehensive Zabbix templates covering all UniFi device types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286558231,
+                "language": "Shell",
+                "last_commit": "2026-01-24T04:34:02Z",
+                "owner": "patricegautier",
+                "repo": "unifiZabbix",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MassimilianoPasquini97/zbx_unifi_network_api",
+              "description": "UniFi Network Zabbix Template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1106620885,
+                "language": null,
+                "last_commit": "2025-11-29T16:01:25Z",
+                "owner": "MassimilianoPasquini97",
+                "repo": "zbx_unifi_network_api",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zabbix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "carverauto/serviceradar",
+              "description": "Zero-trust open-source network management and observability platform with UniFi support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 916252207,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T10:50:29Z",
+                "owner": "carverauto",
+                "repo": "serviceradar",
+                "stars": 906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmasarweh/Unifi-Log-Insights",
+              "description": "Self-hosted real-time syslog analysis for UniFi gateways with GeoIP enrichment, threat intelligence, and interactive dashboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153488651,
+                "language": "Python",
+                "last_commit": "2026-06-30T08:44:05Z",
+                "owner": "jmasarweh",
+                "repo": "UniFi-Insights-Plus",
+                "stars": 262
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Monitoring"
+        }
+      ],
       "title": "Monitoring & Metrics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "unpoller/unpoller",
-          "description": "Collect all UniFi Controller, site, device, and client data and export to InfluxDB or Prometheus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:44:55Z",
-            "owner": "unpoller",
-            "repo": "unpoller",
-            "stars": 2683
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hassio-addons/addon-unifi",
+              "description": "UniFi Network Application - Home Assistant Community Add-ons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136532086,
+                "language": "Dockerfile",
+                "last_commit": "2026-07-20T06:02:21Z",
+                "owner": "hassio-addons",
+                "repo": "app-unifi",
+                "stars": 376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imhotep/hass-unifi-access",
+              "description": "UniFi Access Integration for Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710961525,
+                "language": "Python",
+                "last_commit": "2026-07-21T22:52:49Z",
+                "owner": "imhotep",
+                "repo": "hass-unifi-access",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elad-bar/ha-edgeos",
+              "description": "Home Assistant integration for Ubiquiti EdgeOS routers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169467285,
+                "language": "Python",
+                "last_commit": "2025-09-20T13:09:28Z",
+                "owner": "elad-bar",
+                "repo": "ha-edgeos",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ufozone/ha-unifi-voucher",
+              "description": "UniFi Hotspot Manager Integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651580675,
+                "language": "Python",
+                "last_commit": "2026-08-14T13:11:55Z",
+                "owner": "ufozone",
+                "repo": "ha-unifi-voucher",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sirkirby/unifi-network-rules",
+              "description": "Manage, backup, and automate your UDM firewall policies in Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856448738,
+                "language": "Python",
+                "last_commit": "2026-06-01T16:25:26Z",
+                "owner": "sirkirby",
+                "repo": "unifi-network-rules",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruaan-deysel/ha-unifi-insights",
+              "description": "Comprehensive Home Assistant custom integration for UniFi Network and Protect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917968755,
+                "language": "Python",
+                "last_commit": "2026-08-04T06:39:30Z",
+                "owner": "ruaan-deysel",
+                "repo": "ha-unifi-insights",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "biofects/HA-Unifi-Speedtest",
+              "description": "Real-time speed test monitoring for UniFi networks in Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 922700195,
+                "language": "Python",
+                "last_commit": "2026-03-12T21:21:47Z",
+                "owner": "biofects",
+                "repo": "HA-Unifi-Speedtest",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "patagonaa/homeassistant-unifi-led",
+              "description": "Control UniFi access point LEDs via Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293911613,
+                "language": "C#",
+                "last_commit": "2025-03-31T17:23:47Z",
+                "owner": "patagonaa",
+                "repo": "homeassistant-unifi-led",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Home Assistant"
         },
         {
-          "node_type": "item",
-          "title": "timothystewart6/unpoller-unifi",
-          "description": "Ready-to-run Docker Compose stack for monitoring UniFi networks with UnPoller, Prometheus, and Grafana (third-party deployment stack).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-21T16:44:21Z",
-            "owner": "timothystewart6",
-            "repo": "unpoller-unifi",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unpoller/dashboards",
-          "description": "Pre-built Grafana dashboards for visualizing UnPoller data (companion dashboards).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-15T03:40:01Z",
-            "owner": "unpoller",
-            "repo": "dashboards",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zygiss/snmp-exporter-unifi",
-          "description": "Prometheus SNMP exporter generator and SNMP configs for UniFi access points.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-15T20:05:35Z",
-            "owner": "zygiss",
-            "repo": "snmp-exporter-unifi",
-            "stars": 23
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hjdhjd/homebridge-unifi-protect",
+              "description": "Complete HomeKit integration for all UniFi Protect device types with full support for HomeKit Secure Video.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200556823,
+                "language": "TypeScript",
+                "last_commit": "2026-07-19T20:47:25Z",
+                "owner": "hjdhjd",
+                "repo": "homebridge-unifi-protect",
+                "stars": 1775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hjdhjd/homebridge-unifi-access",
+              "description": "UniFi Access plugin for HomeKit (Homebridge).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286555679,
+                "language": "TypeScript",
+                "last_commit": "2026-06-10T20:47:10Z",
+                "owner": "hjdhjd",
+                "repo": "homebridge-unifi-access",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Homebridge / HomeKit"
         }
       ],
-      "title": "Prometheus & Grafana"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "patricegautier/unifiZabbix",
-          "description": "Comprehensive Zabbix templates covering all UniFi device types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-24T04:34:02Z",
-            "owner": "patricegautier",
-            "repo": "unifiZabbix",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MassimilianoPasquini97/zbx_unifi_network_api",
-          "description": "UniFi Network Zabbix Template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-29T16:01:25Z",
-            "owner": "MassimilianoPasquini97",
-            "repo": "zbx_unifi_network_api",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Zabbix"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "carverauto/serviceradar",
-          "description": "Zero-trust open-source network management and observability platform with UniFi support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T21:00:36Z",
-            "owner": "carverauto",
-            "repo": "serviceradar",
-            "stars": 903
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jmasarweh/Unifi-Log-Insights",
-          "description": "Self-hosted real-time syslog analysis for UniFi gateways with GeoIP enrichment, threat intelligence, and interactive dashboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-30T08:44:05Z",
-            "owner": "jmasarweh",
-            "repo": "UniFi-Insights-Plus",
-            "stars": 262
-          }
-        }
-      ],
-      "title": "Other Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Home Automation"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hassio-addons/addon-unifi",
-          "description": "UniFi Network Application - Home Assistant Community Add-ons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-07-20T06:02:21Z",
-            "owner": "hassio-addons",
-            "repo": "app-unifi",
-            "stars": 376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imhotep/hass-unifi-access",
-          "description": "UniFi Access Integration for Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-21T22:52:49Z",
-            "owner": "imhotep",
-            "repo": "hass-unifi-access",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elad-bar/ha-edgeos",
-          "description": "Home Assistant integration for Ubiquiti EdgeOS routers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-20T13:09:28Z",
-            "owner": "elad-bar",
-            "repo": "ha-edgeos",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ufozone/ha-unifi-voucher",
-          "description": "UniFi Hotspot Manager Integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T13:11:55Z",
-            "owner": "ufozone",
-            "repo": "ha-unifi-voucher",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sirkirby/unifi-network-rules",
-          "description": "Manage, backup, and automate your UDM firewall policies in Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T16:25:26Z",
-            "owner": "sirkirby",
-            "repo": "unifi-network-rules",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ruaan-deysel/ha-unifi-insights",
-          "description": "Comprehensive Home Assistant custom integration for UniFi Network and Protect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T06:39:30Z",
-            "owner": "ruaan-deysel",
-            "repo": "ha-unifi-insights",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "biofects/HA-Unifi-Speedtest",
-          "description": "Real-time speed test monitoring for UniFi networks in Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-12T21:21:47Z",
-            "owner": "biofects",
-            "repo": "HA-Unifi-Speedtest",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "patagonaa/homeassistant-unifi-led",
-          "description": "Control UniFi access point LEDs via Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-03-31T17:23:47Z",
-            "owner": "patagonaa",
-            "repo": "homeassistant-unifi-led",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Home Assistant"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hjdhjd/homebridge-unifi-protect",
-          "description": "Complete HomeKit integration for all UniFi Protect device types with full support for HomeKit Secure Video.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-19T20:47:25Z",
-            "owner": "hjdhjd",
-            "repo": "homebridge-unifi-protect",
-            "stars": 1775
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hjdhjd/homebridge-unifi-access",
-          "description": "UniFi Access plugin for HomeKit (Homebridge).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T20:47:10Z",
-            "owner": "hjdhjd",
-            "repo": "homebridge-unifi-access",
-            "stars": 71
-          }
-        }
-      ],
-      "title": "Homebridge / HomeKit"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -735,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130946307,
             "language": "Python",
             "last_commit": "2026-08-11T04:02:05Z",
             "owner": "keshavdv",
@@ -749,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 460655464,
             "language": "Python",
             "last_commit": "2026-05-11T15:21:31Z",
             "owner": "ep1cman",
@@ -763,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214804592,
             "language": "Python",
             "last_commit": "2026-07-10T15:17:14Z",
             "owner": "danielfernau",
@@ -777,8 +838,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443690684,
             "language": "TypeScript",
-            "last_commit": "2026-07-19T20:37:14Z",
+            "last_commit": "2026-08-18T23:59:22Z",
             "owner": "hjdhjd",
             "repo": "unifi-protect",
             "stars": 405
@@ -791,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251444004,
             "language": "Rust",
             "last_commit": "2026-06-15T15:52:56Z",
             "owner": "petergeneric",
@@ -802,7 +865,7 @@
       "title": "UniFi Protect"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -811,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766034185,
             "language": "TypeScript",
             "last_commit": "2026-01-23T16:54:18Z",
             "owner": "hjdhjd",
@@ -825,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846356659,
             "language": "Python",
             "last_commit": "2026-08-13T15:00:45Z",
             "owner": "keithah",
@@ -839,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 851728489,
             "language": "Python",
             "last_commit": "2025-11-12T21:08:12Z",
             "owner": "matejgordon",
@@ -853,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653533920,
             "language": "Python",
             "last_commit": "2023-06-20T07:29:57Z",
             "owner": "phamels",
@@ -864,7 +931,7 @@
       "title": "UniFi Access"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -873,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 229852889,
             "language": "Go",
             "last_commit": "2026-04-28T12:51:06Z",
             "owner": "paultyng",
@@ -887,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471123057,
             "language": "Makefile",
             "last_commit": "2026-08-07T07:59:40Z",
             "owner": "pulumiverse",
@@ -898,7 +967,7 @@
       "title": "Network Automation & IaC"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -907,11 +976,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1142058328,
             "language": "Python",
             "last_commit": "2026-07-22T19:55:13Z",
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -921,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153488651,
             "language": "Python",
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
@@ -935,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141925141,
             "language": "Go",
             "last_commit": "2026-07-22T01:49:52Z",
             "owner": "wolffcatskyy",
@@ -949,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141446915,
             "language": "Python",
             "last_commit": "2026-04-13T00:57:40Z",
             "owner": "trek-e",
@@ -963,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1023721064,
             "language": "Python",
             "last_commit": "2025-07-24T20:20:51Z",
             "owner": "coolcat1575",
@@ -977,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097667577,
             "language": "Rust",
             "last_commit": "2026-07-05T17:16:33Z",
             "owner": "LordOfPolls",
@@ -991,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124026052,
             "language": "Swift",
             "last_commit": "2026-04-10T04:00:09Z",
             "owner": "shrisha",
@@ -1005,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148977841,
             "language": "Python",
             "last_commit": "2026-03-16T15:44:54Z",
             "owner": "wolffcatskyy",
@@ -1019,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162108700,
             "language": "Shell",
             "last_commit": "2026-03-16T15:44:52Z",
             "owner": "wolffcatskyy",
@@ -1030,7 +1108,7 @@
       "title": "Security Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1039,8 +1117,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454939484,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:08:59Z",
+            "last_commit": "2026-08-19T02:55:50Z",
             "owner": "willswire",
             "repo": "unifi-ddns",
             "stars": 1280
@@ -1053,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805039694,
             "language": "Go",
             "last_commit": "2026-08-18T15:49:37Z",
             "owner": "home-operations",
@@ -1067,18 +1147,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593633316,
             "language": "Shell",
             "last_commit": "2025-01-29T13:34:58Z",
             "owner": "ymichel",
             "repo": "dnsmasqAdBlockUDM",
-            "stars": 13
+            "stars": 14
           }
         }
       ],
       "title": "DNS & DDNS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1087,11 +1168,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365583209,
             "language": "Shell",
             "last_commit": "2026-08-17T11:29:06Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
@@ -1101,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260995176,
             "language": "Shell",
             "last_commit": "2026-04-01T13:51:13Z",
             "owner": "WireGuard",
@@ -1115,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332945711,
             "language": "Shell",
             "last_commit": "2023-07-10T02:38:16Z",
             "owner": "peacey",
@@ -1129,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350079350,
             "language": "Shell",
             "last_commit": "2024-02-14T20:32:36Z",
             "owner": "jamesog",
@@ -1143,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354859079,
             "language": "Shell",
             "last_commit": "2023-03-02T21:44:26Z",
             "owner": "tusc",
@@ -1157,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735184168,
             "language": null,
             "last_commit": "2026-07-10T22:04:30Z",
             "owner": "evie-lau",
@@ -1171,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436036800,
             "language": "HTML",
             "last_commit": "2025-08-13T21:57:39Z",
             "owner": "vchrizz",
@@ -1182,7 +1270,7 @@
       "title": "VPN & WireGuard"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1191,6 +1279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101405011,
             "language": "Shell",
             "last_commit": "2024-05-02T22:27:20Z",
             "owner": "zhangyoufu",
@@ -1205,6 +1294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95153261,
             "language": "Shell",
             "last_commit": "2023-03-08T21:33:34Z",
             "owner": "psitem",
@@ -1216,7 +1306,7 @@
       "title": "Backup Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1225,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123023453,
             "language": "EJS",
             "last_commit": "2026-07-15T18:21:47Z",
             "owner": "glenndehaan",
@@ -1239,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4183182,
             "language": "Shell",
             "last_commit": "2026-03-18T22:19:49Z",
             "owner": "DJM0",
@@ -1253,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032554027,
             "language": "TypeScript",
             "last_commit": "2026-07-26T16:47:57Z",
             "owner": "etiennecollin",
@@ -1267,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272299624,
             "language": "JavaScript",
             "last_commit": "2024-05-20T23:38:56Z",
             "owner": "Carlgo11",
@@ -1278,7 +1372,7 @@
       "title": "Guest Portal & Vouchers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1287,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245029154,
             "language": "Shell",
             "last_commit": "2026-05-20T15:32:13Z",
             "owner": "kchristensen",
@@ -1301,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426938749,
             "language": "Shell",
             "last_commit": "2025-06-22T15:26:12Z",
             "owner": "fabianishere",
@@ -1315,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392067248,
             "language": null,
             "last_commit": "2025-04-06T20:09:06Z",
             "owner": "IngmarStein",
@@ -1329,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340867405,
             "language": "Shell",
             "last_commit": "2023-04-02T17:30:42Z",
             "owner": "fabianishere",
@@ -1343,11 +1441,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925428996,
             "language": "Shell",
             "last_commit": "2026-08-09T20:16:57Z",
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -1357,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331129522,
             "language": "C",
             "last_commit": "2023-01-24T10:40:24Z",
             "owner": "fabianishere",
@@ -1371,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339776509,
             "language": "Shell",
             "last_commit": "2026-06-22T18:15:05Z",
             "owner": "renedis",
@@ -1385,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398662158,
             "language": null,
             "last_commit": "2023-03-11T00:55:39Z",
             "owner": "davidjenni",
@@ -1399,11 +1501,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375006859,
             "language": null,
             "last_commit": "2026-07-14T19:39:57Z",
             "owner": "TobyAnscombe",
             "repo": "udm-setup",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -1413,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843943969,
             "language": null,
             "last_commit": "2026-07-29T14:20:33Z",
             "owner": "esmith443",
@@ -1427,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256667683,
             "language": "Python",
             "last_commit": "2023-05-22T03:38:28Z",
             "owner": "cdchris12",
@@ -1441,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280536326,
             "language": "JavaScript",
             "last_commit": "2024-08-28T15:58:30Z",
             "owner": "blackjid",
@@ -1455,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223816147,
             "language": "Dockerfile",
             "last_commit": "2026-08-15T19:41:59Z",
             "owner": "scyto",
@@ -1469,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334311810,
             "language": "Python",
             "last_commit": "2024-07-06T16:12:19Z",
             "owner": "dlk3",
@@ -1483,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 574935953,
             "language": "Python",
             "last_commit": "2024-06-08T13:58:27Z",
             "owner": "whi-tw",
@@ -1497,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477145177,
             "language": "Shell",
             "last_commit": "2023-03-04T12:19:28Z",
             "owner": "xpherism",
@@ -1511,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603282030,
             "language": "Shell",
             "last_commit": "2026-05-24T13:37:05Z",
             "owner": "johnstonjs",
@@ -1522,7 +1633,7 @@
       "title": "Dream Machine Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1531,6 +1642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49754843,
             "language": "Go",
             "last_commit": "2023-09-06T01:37:07Z",
             "owner": "britannic",
@@ -1545,6 +1657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78507106,
             "language": "Shell",
             "last_commit": "2023-11-19T16:47:54Z",
             "owner": "j-c-m",
@@ -1559,6 +1672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75029084,
             "language": "Shell",
             "last_commit": "2026-07-14T21:05:20Z",
             "owner": "sowbug",
@@ -1573,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102614555,
             "language": "Shell",
             "last_commit": "2022-06-17T08:19:36Z",
             "owner": "hungnguyenm",
@@ -1587,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201695417,
             "language": null,
             "last_commit": "2021-01-29T03:58:45Z",
             "owner": "Genghis1227",
@@ -1601,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270288054,
             "language": "C#",
             "last_commit": "2023-01-31T18:17:08Z",
             "owner": "Matthew1471",
@@ -1615,6 +1732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798050060,
             "language": "Shell",
             "last_commit": "2025-04-16T23:40:23Z",
             "owner": "darkxst",
@@ -1629,6 +1747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149038607,
             "language": "Shell",
             "last_commit": "2022-09-03T16:43:23Z",
             "owner": "darkgrue",
@@ -1640,7 +1759,7 @@
       "title": "EdgeRouter / EdgeOS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1649,11 +1768,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970267776,
             "language": "Python",
             "last_commit": "2026-08-17T23:17:02Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 705
+            "stars": 710
           }
         },
         {
@@ -1663,6 +1783,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153488651,
             "language": "Python",
             "last_commit": "2026-06-30T08:44:05Z",
             "owner": "jmasarweh",
@@ -1677,11 +1798,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078608430,
             "language": "Python",
-            "last_commit": "2026-08-18T16:33:44Z",
+            "last_commit": "2026-08-19T03:18:12Z",
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -1691,6 +1813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1074444345,
             "language": "Python",
             "last_commit": "2026-06-20T14:42:23Z",
             "owner": "bjeans",
@@ -1702,7 +1825,7 @@
       "title": "MCP Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1711,6 +1834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40707659,
             "language": null,
             "last_commit": "2020-05-18T14:20:44Z",
             "owner": "jeffreykog",
@@ -1725,6 +1849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122962211,
             "language": "Python",
             "last_commit": "2026-08-15T05:00:19Z",
             "owner": "beezly",
@@ -1739,6 +1864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387034580,
             "language": "Shell",
             "last_commit": "2022-07-23T19:56:19Z",
             "owner": "MinisculeGirraffe",
@@ -1753,6 +1879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 870669363,
             "language": null,
             "last_commit": "2026-05-26T16:37:56Z",
             "owner": "mzac",
@@ -1767,6 +1894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 745364355,
             "language": "Go",
             "last_commit": "2026-07-17T02:44:47Z",
             "owner": "ubiquiti-community",
@@ -1776,21 +1904,12 @@
         }
       ],
       "title": "Guides & Documentation"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "List curation and project selection by the maintainer. AI tools used for formatting, lint compliance, and alphabetical ordering.",
-      "items": [],
-      "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:03:26.869Z",
+    "last_updated": "2026-08-19T12:59:28.774Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
+    "original_repository_id": 1158881005,
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
     "enhanced_repository": "enhansome/enhansome-unifi",
     "enhanced_repository_description": null,
