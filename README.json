@@ -133,6 +133,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Art-of-WiFi/UniFi-API-client",
+              "description": "PHP API client class to interact with Ubiquiti's UniFi Controller API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102462759,
+                "language": "PHP",
+                "last_commit": "2026-07-27T09:37:42Z",
+                "owner": "Art-of-WiFi",
+                "repo": "UniFi-API-client",
+                "stars": 1342
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "KoenZomers/UniFiApi",
               "description": "API in .NET 9 to fetch data from an on premises Ubiquiti UniFi Controller.",
               "children": [],
@@ -180,6 +202,28 @@
           "description": null,
           "node_type": "group",
           "title": ".NET / C#"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hculap/unifi-api",
+              "description": "Ruby client for the UniFi Controller API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64745117,
+                "language": "Ruby",
+                "last_commit": "2023-05-04T03:41:28Z",
+                "owner": "hculap",
+                "repo": "unifi-api",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
         }
       ],
       "title": "API Libraries"
@@ -226,10 +270,10 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-23T21:00:49Z",
+            "last_commit": "2026-08-24T14:42:17Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -274,7 +318,7 @@
             "last_commit": "2026-04-27T10:30:38Z",
             "owner": "Crosstalk-Solutions",
             "repo": "unifi-toolkit",
-            "stars": 506
+            "stars": 507
           }
         },
         {
@@ -289,7 +333,7 @@
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 241
+            "stars": 244
           }
         },
         {
@@ -480,7 +524,7 @@
                 "archived": false,
                 "id": 130408606,
                 "language": "Go",
-                "last_commit": "2026-08-23T03:03:08Z",
+                "last_commit": "2026-08-24T02:42:41Z",
                 "owner": "unpoller",
                 "repo": "unpoller",
                 "stars": 2690
@@ -498,7 +542,7 @@
                 "last_commit": "2026-05-21T16:44:21Z",
                 "owner": "timothystewart6",
                 "repo": "unpoller-unifi",
-                "stars": 134
+                "stars": 133
               }
             },
             {
@@ -584,10 +628,10 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-23T21:01:00Z",
+                "last_commit": "2026-08-24T07:49:00Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 911
+                "stars": 912
               }
             },
             {
@@ -702,7 +746,7 @@
                 "archived": false,
                 "id": 917968755,
                 "language": "Python",
-                "last_commit": "2026-08-04T06:39:30Z",
+                "last_commit": "2026-08-24T10:51:16Z",
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
                 "stars": 39
@@ -717,7 +761,7 @@
                 "archived": false,
                 "id": 922700195,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:53:31Z",
+                "last_commit": "2026-08-24T14:41:35Z",
                 "owner": "biofects",
                 "repo": "HA-Unifi-Speedtest",
                 "stars": 31
@@ -779,6 +823,28 @@
           "description": null,
           "node_type": "group",
           "title": "Homebridge / HomeKit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ioBroker.unifi",
+              "description": "ioBroker adapter for UniFi network devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77393072,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T23:35:22Z",
+                "owner": "iobroker-community-adapters",
+                "repo": "ioBroker.unifi",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Platforms"
         }
       ],
       "title": "Home Automation"
@@ -1134,7 +1200,7 @@
             "archived": false,
             "id": 805039694,
             "language": "Go",
-            "last_commit": "2026-08-23T14:44:11Z",
+            "last_commit": "2026-08-24T10:56:39Z",
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
             "stars": 320
@@ -1173,7 +1239,7 @@
             "last_commit": "2026-08-17T11:29:06Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1684
+            "stars": 1686
           }
         },
         {
@@ -1188,7 +1254,7 @@
             "last_commit": "2026-04-01T13:51:13Z",
             "owner": "WireGuard",
             "repo": "wireguard-vyatta-ubnt",
-            "stars": 1486
+            "stars": 1485
           }
         },
         {
@@ -1320,7 +1386,7 @@
             "last_commit": "2026-07-15T18:21:47Z",
             "owner": "glenndehaan",
             "repo": "unifi-voucher-site",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -1563,7 +1629,7 @@
             "archived": false,
             "id": 223816147,
             "language": "Dockerfile",
-            "last_commit": "2026-08-23T00:28:27Z",
+            "last_commit": "2026-08-24T05:43:57Z",
             "owner": "scyto",
             "repo": "multicast-relay",
             "stars": 62
@@ -1770,10 +1836,10 @@
             "archived": false,
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-23T20:58:22Z",
+            "last_commit": "2026-08-24T14:23:06Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 736
+            "stars": 740
           }
         },
         {
@@ -1896,7 +1962,7 @@
             "archived": false,
             "id": 745364355,
             "language": "Go",
-            "last_commit": "2026-07-17T02:44:47Z",
+            "last_commit": "2026-08-24T10:22:26Z",
             "owner": "ubiquiti-community",
             "repo": "unifi-api",
             "stars": 13
@@ -1907,7 +1973,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:02:08.479Z",
+    "last_updated": "2026-08-24T14:45:44.695Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_id": 1158881005,
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
