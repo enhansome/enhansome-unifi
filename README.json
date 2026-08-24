@@ -270,7 +270,7 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-24T14:42:17Z",
+            "last_commit": "2026-08-24T20:42:30Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
             "stars": 975
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 244
+            "stars": 246
           }
         },
         {
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 51338232,
             "language": "Shell",
-            "last_commit": "2026-08-18T17:14:30Z",
+            "last_commit": "2026-08-24T17:17:49Z",
             "owner": "goofball222",
             "repo": "unifi",
             "stars": 321
@@ -527,7 +527,7 @@
                 "last_commit": "2026-08-24T02:42:41Z",
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2690
+                "stars": 2691
               }
             },
             {
@@ -628,7 +628,7 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T07:49:00Z",
+                "last_commit": "2026-08-24T21:10:15Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
                 "stars": 912
@@ -761,7 +761,7 @@
                 "archived": false,
                 "id": 922700195,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:41:35Z",
+                "last_commit": "2026-08-24T19:48:30Z",
                 "owner": "biofects",
                 "repo": "HA-Unifi-Speedtest",
                 "stars": 31
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 805039694,
             "language": "Go",
-            "last_commit": "2026-08-24T10:56:39Z",
+            "last_commit": "2026-08-24T18:23:44Z",
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
             "stars": 320
@@ -1299,7 +1299,7 @@
             "last_commit": "2023-03-02T21:44:26Z",
             "owner": "tusc",
             "repo": "wireguard-kmod",
-            "stars": 344
+            "stars": 343
           }
         },
         {
@@ -1836,10 +1836,10 @@
             "archived": false,
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-24T14:23:06Z",
+            "last_commit": "2026-08-24T21:00:48Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 740
+            "stars": 742
           }
         },
         {
@@ -1973,7 +1973,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:44.695Z",
+    "last_updated": "2026-08-24T21:13:35.853Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_id": 1158881005,
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
