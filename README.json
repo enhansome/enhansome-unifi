@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 167286522,
                 "language": "Go",
-                "last_commit": "2026-08-19T17:09:29Z",
+                "last_commit": "2026-08-24T23:31:30Z",
                 "owner": "unpoller",
                 "repo": "unifi",
                 "stars": 152
@@ -143,7 +143,7 @@
                 "last_commit": "2026-07-27T09:37:42Z",
                 "owner": "Art-of-WiFi",
                 "repo": "UniFi-API-client",
-                "stars": 1342
+                "stars": 1343
               }
             }
           ],
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-24T20:42:30Z",
+            "last_commit": "2026-08-25T06:08:37Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 246
+            "stars": 247
           }
         },
         {
@@ -524,10 +524,10 @@
                 "archived": false,
                 "id": 130408606,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:42:41Z",
+                "last_commit": "2026-08-24T23:30:50Z",
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2691
+                "stars": 2692
               }
             },
             {
@@ -628,10 +628,10 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T21:10:15Z",
+                "last_commit": "2026-08-25T06:30:23Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 912
+                "stars": 913
               }
             },
             {
@@ -746,7 +746,7 @@
                 "archived": false,
                 "id": 917968755,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:51:16Z",
+                "last_commit": "2026-08-25T04:11:03Z",
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
                 "stars": 39
@@ -861,7 +861,7 @@
             "archived": false,
             "id": 130946307,
             "language": "Python",
-            "last_commit": "2026-08-21T19:39:34Z",
+            "last_commit": "2026-08-25T03:46:26Z",
             "owner": "keshavdv",
             "repo": "unifi-cam-proxy",
             "stars": 1869
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-08-17T11:29:06Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1686
+            "stars": 1687
           }
         },
         {
@@ -1803,7 +1803,7 @@
             "last_commit": "2025-04-16T23:40:23Z",
             "owner": "darkxst",
             "repo": "erx-migration",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -1836,10 +1836,10 @@
             "archived": false,
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-24T21:00:48Z",
+            "last_commit": "2026-08-25T03:51:19Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 742
+            "stars": 744
           }
         },
         {
@@ -1973,7 +1973,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:13:35.853Z",
+    "last_updated": "2026-08-25T06:38:58.329Z",
     "original_repository": "wolffcatskyy/awesome-unifi",
     "original_repository_id": 1158881005,
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
