@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-24T23:31:30Z",
                 "owner": "unpoller",
                 "repo": "unifi",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-27T00:12:40Z",
+            "last_commit": "2026-08-27T08:19:12Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 979
+            "stars": 978
           }
         },
         {
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 30978978,
             "language": "Shell",
-            "last_commit": "2026-08-21T03:45:52Z",
+            "last_commit": "2026-08-27T04:47:43Z",
             "owner": "jacobalberty",
             "repo": "unifi-docker",
             "stars": 2615
@@ -628,7 +628,7 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T21:16:04Z",
+                "last_commit": "2026-08-27T08:17:36Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
                 "stars": 915
@@ -1185,7 +1185,7 @@
             "archived": false,
             "id": 454939484,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:03:11Z",
+            "last_commit": "2026-08-27T10:53:56Z",
             "owner": "willswire",
             "repo": "unifi-ddns",
             "stars": 1280
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 805039694,
             "language": "Go",
-            "last_commit": "2026-08-24T18:23:44Z",
+            "last_commit": "2026-08-27T02:06:56Z",
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
             "stars": 320
@@ -1836,7 +1836,7 @@
             "archived": false,
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-26T22:04:55Z",
+            "last_commit": "2026-08-27T04:26:40Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
             "stars": 749
@@ -1973,9 +1973,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:16:54.958Z",
-    "original_repository": "wolffcatskyy/awesome-unifi",
-    "original_repository_id": 1158881005,
+    "last_updated": "2026-08-27T12:07:05.067Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1158881005,
+      "language": null,
+      "last_commit": "2026-07-22T01:18:32Z",
+      "owner": "wolffcatskyy",
+      "repo": "awesome-unifi",
+      "stars": 64
+    },
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
     "enhanced_repository": "enhansome/enhansome-unifi",
     "enhanced_repository_description": null,
