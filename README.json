@@ -284,10 +284,10 @@
             "archived": false,
             "id": 1112791885,
             "language": "C#",
-            "last_commit": "2026-08-28T04:12:21Z",
+            "last_commit": "2026-08-28T22:06:29Z",
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 979
+            "stars": 980
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-07T07:13:03Z",
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 248
+            "stars": 249
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -517,7 +517,7 @@
             "last_commit": "2024-05-12T15:36:06Z",
             "owner": "GiuseppeGalilei",
             "repo": "Unifi-Network-Application",
-            "stars": 197
+            "stars": 196
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -554,10 +554,10 @@
                 "archived": false,
                 "id": 130408606,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:00:13Z",
+                "last_commit": "2026-08-28T14:21:38Z",
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2692
+                "stars": 2693
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -573,7 +573,7 @@
                 "last_commit": "2026-05-21T16:44:21Z",
                 "owner": "timothystewart6",
                 "repo": "unpoller-unifi",
-                "stars": 133
+                "stars": 134
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -664,7 +664,7 @@
                 "archived": false,
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-28T04:30:39Z",
+                "last_commit": "2026-08-29T02:47:48Z",
                 "owner": "carverauto",
                 "repo": "serviceradar",
                 "stars": 916
@@ -757,10 +757,10 @@
                 "archived": false,
                 "id": 651580675,
                 "language": "Python",
-                "last_commit": "2026-08-22T13:19:37Z",
+                "last_commit": "2026-08-28T11:46:10Z",
                 "owner": "ufozone",
                 "repo": "ha-unifi-voucher",
-                "stars": 80
+                "stars": 81
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -789,10 +789,10 @@
                 "archived": false,
                 "id": 917968755,
                 "language": "Python",
-                "last_commit": "2026-08-25T07:34:04Z",
+                "last_commit": "2026-08-29T01:28:34Z",
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
-                "stars": 39
+                "stars": 40
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -913,7 +913,7 @@
             "last_commit": "2026-08-25T03:46:26Z",
             "owner": "keshavdv",
             "repo": "unifi-cam-proxy",
-            "stars": 1869
+            "stars": 1868
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-07-22T19:55:13Z",
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 341
+            "stars": 342
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1254,7 +1254,7 @@
             "archived": false,
             "id": 454939484,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:53:56Z",
+            "last_commit": "2026-08-28T21:09:13Z",
             "owner": "willswire",
             "repo": "unifi-ddns",
             "stars": 1280
@@ -1270,7 +1270,7 @@
             "archived": false,
             "id": 805039694,
             "language": "Go",
-            "last_commit": "2026-08-27T15:20:41Z",
+            "last_commit": "2026-08-28T22:26:52Z",
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
             "stars": 320
@@ -1311,7 +1311,7 @@
             "last_commit": "2026-08-17T11:29:06Z",
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1692
+            "stars": 1694
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1467,7 +1467,7 @@
             "last_commit": "2026-08-27T16:47:20Z",
             "owner": "glenndehaan",
             "repo": "unifi-voucher-site",
-            "stars": 302
+            "stars": 303
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-08-09T20:16:57Z",
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 240
+            "stars": 241
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1726,7 +1726,7 @@
             "archived": false,
             "id": 223816147,
             "language": "Dockerfile",
-            "last_commit": "2026-08-24T05:43:57Z",
+            "last_commit": "2026-08-28T16:34:12Z",
             "owner": "scyto",
             "repo": "multicast-relay",
             "stars": 62
@@ -1911,7 +1911,7 @@
             "last_commit": "2025-04-16T23:40:23Z",
             "owner": "darkxst",
             "repo": "erx-migration",
-            "stars": 50
+            "stars": 51
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1946,10 +1946,10 @@
             "archived": false,
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-27T04:26:40Z",
+            "last_commit": "2026-08-29T02:46:58Z",
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 752
+            "stars": 754
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1981,7 +1981,7 @@
             "last_commit": "2026-08-19T03:18:12Z",
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 241
+            "stars": 242
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -2092,7 +2092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:32:09.037Z",
+    "last_updated": "2026-08-29T02:55:14.138Z",
     "original_repository_info": {
       "archived": false,
       "id": 1158881005,
