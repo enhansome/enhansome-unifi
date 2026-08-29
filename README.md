@@ -122,7 +122,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ### Other Monitoring
 
-* [carverauto/serviceradar](https://github.com/carverauto/serviceradar) ⭐ 916 | 🐛 313 | 🌐 Elixir | 📅 2026-08-29 - Zero-trust open-source network management and observability platform with UniFi support.
+* [carverauto/serviceradar](https://github.com/carverauto/serviceradar) ⭐ 916 | 🐛 314 | 🌐 Elixir | 📅 2026-08-29 - Zero-trust open-source network management and observability platform with UniFi support.
 * [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 266 | 🐛 35 | 🌐 Python | 📅 2026-06-30 - Self-hosted real-time syslog analysis for UniFi gateways with GeoIP enrichment, threat intelligence, and interactive dashboards.
 
 ## Home Automation
@@ -240,7 +240,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## MCP Servers
 
-* [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) ⭐ 754 | 🐛 24 | 🌐 Python | 📅 2026-08-29 - MCP server for the UniFi suite including Network, Protect, Access, and Drive.
+* [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) ⭐ 754 | 🐛 23 | 🌐 Python | 📅 2026-08-29 - MCP server for the UniFi suite including Network, Protect, Access, and Drive.
 * [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 266 | 🐛 35 | 🌐 Python | 📅 2026-06-30 - MCP server for querying parsed UniFi firewall logs, threat intelligence, and network analytics.
 * [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) ⭐ 242 | 🐛 16 | 🌐 Python | 📅 2026-08-19 - MCP server that leverages the official UniFi API.
 * [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) ⭐ 40 | 🐛 18 | 🌐 Python | 📅 2026-06-20 - MCP servers for managing homelab infrastructure including UniFi networks.
@@ -248,7 +248,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 ## Guides & Documentation
 
 * [jeffreykog/unifi-inform-protocol](https://github.com/jeffreykog/unifi-inform-protocol) ⭐ 119 | 🐛 2 | 📅 2020-05-18 - Reverse-engineered documentation of the inform protocol used by UniFi access points.
-* [beezly/unifi-apis](https://github.com/beezly/unifi-apis) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - UniFi Network and Protect API OpenAPI specifications.
+* [beezly/unifi-apis](https://github.com/beezly/unifi-apis) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - UniFi Network and Protect API OpenAPI specifications.
 * [MinisculeGirraffe/Tailscale-UDMPro](https://github.com/MinisculeGirraffe/Tailscale-UDMPro) ⭐ 23 | 🐛 2 | 🌐 Shell | 📅 2022-07-23 - Guide to running Tailscale on a UDM(Pro).
 * [mzac/unifi-pfsense-tailscale](https://github.com/mzac/unifi-pfsense-tailscale) ⭐ 18 | 🐛 0 | 📅 2026-05-26 - Documentation on how to integrate UniFi with pfSense and Tailscale.
 * [ubiquiti-community/unifi-api](https://github.com/ubiquiti-community/unifi-api) ⭐ 13 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - OpenAPI Definition for UniFi Controller API.

@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Unifi API Client",
+                "homepage": null,
                 "id": 745459928,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-20T19:52:59Z",
+                "open_issues": 6,
                 "owner": "ubiquiti-community",
                 "repo": "py-unifi",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -28,12 +33,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python client library for interacting with Ubiquiti UniFi Network Controllers.",
+                "homepage": "https://tnware.github.io/unifi-controller-api/",
                 "id": 960700827,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-15T17:26:28Z",
+                "open_issues": 3,
                 "owner": "tnware",
                 "repo": "unifi-controller-api",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "unifi",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -51,12 +64,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeJS class for querying/controlling a UniFi-Controller (UDM-Pro, UDM-SE, UDM, UDR, UDW, CloudKey Gen1/Gen2) from Ubiquiti (www.ui.com)",
+                "homepage": null,
                 "id": 80537647,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-29T21:28:34Z",
+                "open_issues": 33,
                 "owner": "jens-maus",
                 "repo": "node-unifi",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "cloud-key",
+                  "javascript",
+                  "nodejs",
+                  "ubiquiti",
+                  "udm",
+                  "udm-pro",
+                  "unifi",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -67,12 +94,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeJs client for Unifi products  - https://www.ui.com/",
+                "homepage": "https://thib3113.github.io/unifi-client",
                 "id": 350072947,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:47:45Z",
+                "open_issues": 13,
                 "owner": "thib3113",
                 "repo": "unifi-client",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "cloud-key",
+                  "network",
+                  "node-unifi",
+                  "ubiquiti",
+                  "udm",
+                  "udm-pro",
+                  "unifi",
+                  "unifi-client",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -90,12 +132,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unifi Controller API SDK for Go",
+                "homepage": null,
                 "id": 233111588,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-28T12:44:37Z",
+                "open_issues": 14,
                 "owner": "paultyng",
                 "repo": "go-unifi",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "sdk",
+                  "sdk-go",
+                  "ubiquiti",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -106,12 +158,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Library (w/ structures) to grab data from a Ubiquiti UniFi Controller",
+                "homepage": "https://golift.io/discord",
                 "id": 167286522,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:13:18Z",
+                "open_issues": 2,
                 "owner": "unpoller",
                 "repo": "unifi",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "go-modules",
+                  "go-unifi",
+                  "unifi-api",
+                  "unifi-controller",
+                  "unifi-poller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -122,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unofficial UniFi Network & Protect API Client & CLI, written in Golang",
+                "homepage": null,
                 "id": 974465148,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-12T14:20:52Z",
+                "open_issues": 1,
                 "owner": "ClifHouck",
                 "repo": "unified",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -145,12 +213,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP API client class to interact with Ubiquiti's UniFi Controller API",
+                "homepage": null,
                 "id": 102462759,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-27T09:37:42Z",
+                "open_issues": 7,
                 "owner": "Art-of-WiFi",
                 "repo": "UniFi-API-client",
-                "stars": 1343
+                "stars": 1343,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "class",
+                  "client",
+                  "controller",
+                  "curl",
+                  "php",
+                  "ubiquiti",
+                  "ubnt",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -168,12 +252,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API in .NET 9 to fetch data from an on premises Ubiquiti UniFi Controller",
+                "homepage": null,
                 "id": 86397648,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T19:05:06Z",
+                "open_issues": 1,
                 "owner": "KoenZomers",
                 "repo": "UniFiApi",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "c-sharp",
+                  "net9",
+                  "ubiquity",
+                  "unifi",
+                  "unifi-api",
+                  "unifios"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -184,12 +280,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Standard wrapper library for the Ubiquiti Unifi Controller",
+                "homepage": null,
                 "id": 144812873,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-03T10:54:43Z",
+                "open_issues": 3,
                 "owner": "schwoi",
                 "repo": "UnifiClient",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "api",
+                  "client",
+                  "controller",
+                  "netstandard",
+                  "ubiquiti",
+                  "ubnt",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -200,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A .NET Library for the Ubiquity Unifi REST and Websocket APIs",
+                "homepage": null,
                 "id": 386485409,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-04-28T23:09:28Z",
+                "open_issues": 0,
                 "owner": "dotMorten",
                 "repo": "UnifiClient",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -223,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rewrite of https://github.com/calmh/unifi-api in Ruby.",
+                "homepage": null,
                 "id": 64745117,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-05-04T03:41:28Z",
+                "open_issues": 2,
                 "owner": "hculap",
                 "repo": "unifi-api",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -250,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniFi Common - on_boot.d",
+            "homepage": null,
             "id": 268284083,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-31T00:34:12Z",
+            "open_issues": 0,
             "owner": "unifi-utilities",
             "repo": "unifi-common",
-            "stars": 4365
+            "stars": 4365,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -266,12 +390,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to browse data exposed by Ubiquiti's UniFi Controller API",
+            "homepage": null,
             "id": 45477976,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-02-24T14:46:17Z",
+            "open_issues": 8,
             "owner": "Art-of-WiFi",
             "repo": "UniFi-API-browser",
-            "stars": 1259
+            "stars": 1259,
+            "topics": [
+              "api",
+              "api-client",
+              "bootstrap",
+              "browse-data",
+              "controller",
+              "curl",
+              "php",
+              "ubiquiti",
+              "ubnt",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -282,12 +422,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted optimization, monitoring (NMS), and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, CM, ONT, SFP, 5G modem stats +more.​​​​​​​​​​​​​",
+            "homepage": "https://ozarkconnect.net/network-optimizer",
             "id": 1112791885,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:06:29Z",
+            "open_issues": 66,
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 980
+            "stars": 980,
+            "topics": [
+              "bufferbloat",
+              "crowdsec",
+              "docker",
+              "homelab",
+              "internet-speed-test",
+              "isp-health",
+              "isp-monitoring",
+              "network-monitoring",
+              "network-monitoring-tool",
+              "network-optimization",
+              "nms",
+              "security-audit",
+              "self-hosted",
+              "speedtest",
+              "speedtest-tracker",
+              "sqm",
+              "ubiquiti",
+              "unifi",
+              "unifi-network",
+              "wifi-configuration"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -298,12 +464,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script that installs the UniFi Controller software on pfSense and other FreeBSD systems",
+            "homepage": null,
             "id": 13485463,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-03-30T02:10:47Z",
+            "open_issues": 24,
             "owner": "unofficial-unifi",
             "repo": "unifi-pfsense",
-            "stars": 785
+            "stars": 785,
+            "topics": [
+              "freebsd",
+              "pfsense",
+              "rc-script",
+              "shell",
+              "ubiquiti",
+              "unifi",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -314,12 +493,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helpful Linux / Unix scripts for admins of Ubiquiti (UBNT) UniFi wireless products",
+            "homepage": "https://www.stevejenkins.com/blog/tag/unifi/",
             "id": 74870941,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-06-30T19:26:43Z",
+            "open_issues": 24,
             "owner": "stevejenkins",
             "repo": "unifi-linux-utils",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "linux",
+              "ubiquiti",
+              "ubnt",
+              "unifi-controller",
+              "unifi-docker",
+              "unifi-linux-utils"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -330,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of tools for UniFi network management",
+            "homepage": null,
             "id": 1107824454,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T10:30:38Z",
+            "open_issues": 10,
             "owner": "Crosstalk-Solutions",
             "repo": "unifi-toolkit",
-            "stars": 507
+            "stars": 507,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -346,12 +542,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Elegant UniFi network management CLI & TUI - for humans and agents",
+            "homepage": "https://hyperb1iss.github.io/unifly/",
             "id": 1157326300,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:03Z",
+            "open_issues": 1,
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "agent-skills",
+              "cli",
+              "networking",
+              "openclaw-skill",
+              "ratatui",
+              "rust",
+              "terminal",
+              "tui",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -362,12 +574,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UFiber Configuration Tool",
+            "homepage": null,
             "id": 361309753,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-08-18T10:10:24Z",
+            "open_issues": 32,
             "owner": "Unifi-Tools",
             "repo": "UFiber.Configurator",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "ubiquiti",
+              "ufiber",
+              "unifi",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -378,12 +600,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor UniFi networks for new devices with Telegram or Ntfy alerts using Art-of-WiFi/UniFi-API-client.",
+            "homepage": null,
             "id": 730041066,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T20:57:33Z",
+            "open_issues": 1,
             "owner": "ZSamuels28",
             "repo": "UnifiClientCheck-Docker",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "php",
+              "telegram-bot",
+              "unifi",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -394,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 777477114,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-01T17:56:08Z",
+            "open_issues": 0,
             "owner": "veteranbv",
             "repo": "unifi-client-updater",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -410,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker for unifi browser https://github.com/Art-of-WiFi/UniFi-API-browser",
+            "homepage": null,
             "id": 212642048,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-11T16:49:57Z",
+            "open_issues": 0,
             "owner": "scyto",
             "repo": "docker-UnifiBrowser",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -426,12 +668,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "unifi cli leveraging private gateway apis for network telemetry, DPI, and topology",
+            "homepage": null,
             "id": 989424817,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-05-24T05:36:38Z",
+            "open_issues": 0,
             "owner": "57",
             "repo": "unifidash",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api",
+              "cli",
+              "network-analysis",
+              "networking",
+              "powershell",
+              "reverse-engineering",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -448,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unifi Docker files",
+            "homepage": null,
             "id": 30978978,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:47:43Z",
+            "open_issues": 15,
             "owner": "jacobalberty",
             "repo": "unifi-docker",
-            "stars": 2615
+            "stars": 2615,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -464,12 +725,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 687561903,
             "language": "Dockerfile",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T23:21:59Z",
+            "open_issues": 7,
             "owner": "linuxserver",
             "repo": "docker-unifi-network-application",
-            "stars": 1166
+            "stars": 1166,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -480,12 +748,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniFi Docker Container",
+            "homepage": null,
             "id": 51338232,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:02:44Z",
+            "open_issues": 3,
             "owner": "goofball222",
             "repo": "unifi",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "amd64",
+              "arm64",
+              "docker-container",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -496,12 +774,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).",
+            "homepage": "https://hub.docker.com/r/nico640/docker-unms",
             "id": 199173141,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2026-06-04T20:10:09Z",
+            "open_issues": 28,
             "owner": "Nico640",
             "repo": "docker-unms",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "amd64",
+              "arm",
+              "arm64",
+              "armhf",
+              "docker",
+              "docker-image",
+              "raspberry-pi",
+              "uisp",
+              "unms",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -512,12 +806,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily deploy Unifi Network Application, on Docker 🐳",
+            "homepage": null,
             "id": 736278135,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-05-12T15:36:06Z",
+            "open_issues": 11,
             "owner": "GiuseppeGalilei",
             "repo": "Unifi-Network-Application",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "casaos",
+              "cloudkey",
+              "compose",
+              "container",
+              "dietpi",
+              "docker",
+              "networking",
+              "script",
+              "self-hosted",
+              "ubiquiti",
+              "unifi",
+              "unifi-controller",
+              "unifi-network-application"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -528,12 +841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unifi Controller Docker image and compose",
+            "homepage": null,
             "id": 93170270,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-06-23T11:48:25Z",
+            "open_issues": 0,
             "owner": "jcberthon",
             "repo": "unifi-docker",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "dockerfile",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -552,12 +875,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus",
+                "homepage": "https://unpoller.com",
                 "id": 130408606,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:21:38Z",
+                "open_issues": 1,
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2693
+                "stars": 2693,
+                "topics": [
+                  "cloudkey",
+                  "grafana-dashboard",
+                  "grafana-dashboards",
+                  "influxdb",
+                  "network-metrics",
+                  "network-monitoring",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "uap",
+                  "ubiquiti",
+                  "ubiquiti-discord",
+                  "udm",
+                  "unas",
+                  "unifi",
+                  "unifi-controller",
+                  "unifi-exporter",
+                  "unifi-poller",
+                  "usg",
+                  "usw"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -568,12 +916,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker Compose stack for monitoring UniFi networks with UnPoller, Prometheus, and Grafana.",
+                "homepage": "https://technotim.com/posts/unpoller-unifi-metrics/",
                 "id": 1120221761,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-21T16:44:21Z",
+                "open_issues": 1,
                 "owner": "timothystewart6",
                 "repo": "unpoller-unifi",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "alerting",
+                  "compose",
+                  "docker",
+                  "dozzle",
+                  "grafana",
+                  "logging",
+                  "metrics",
+                  "monitoring",
+                  "observability",
+                  "prometheus",
+                  "unifi",
+                  "unpoller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -584,12 +950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniFi Poller Grafana Dashboards",
+                "homepage": "https://unifipoller.com",
                 "id": 230700250,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:53:17Z",
+                "open_issues": 17,
                 "owner": "unpoller",
                 "repo": "dashboards",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -600,12 +971,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus SNMP exporter generator & SNMP configs for UniFi access points",
+                "homepage": null,
                 "id": 118251772,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2023-07-15T20:05:35Z",
+                "open_issues": 0,
                 "owner": "zygiss",
                 "repo": "snmp-exporter-unifi",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -623,12 +999,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zabbix templates to monitor pretty much all Unifi devices",
+                "homepage": null,
                 "id": 286558231,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-01-24T04:34:02Z",
+                "open_issues": 27,
                 "owner": "patricegautier",
                 "repo": "unifiZabbix",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "airmax-devices",
+                  "cloudkey",
+                  "mca-dump",
+                  "network-metrics",
+                  "network-monitoring",
+                  "uap",
+                  "ubiquiti",
+                  "udm",
+                  "udm-pro",
+                  "unifi",
+                  "unifi-devices",
+                  "usg",
+                  "usw",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -639,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniFi Network Zabbix Template",
+                "homepage": null,
                 "id": 1106620885,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-29T16:01:25Z",
+                "open_issues": 9,
                 "owner": "MassimilianoPasquini97",
                 "repo": "zbx_unifi_network_api",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -662,12 +1063,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source Network Management, Monitoring, ITOM, and Security Analytics",
+                "homepage": "https://serviceradar.cloud",
                 "id": 916252207,
                 "language": "Elixir",
-                "last_commit": "2026-08-29T02:47:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:29:08Z",
+                "open_issues": 314,
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 916
+                "stars": 916,
+                "topics": [
+                  "armis",
+                  "causal-discovery",
+                  "causal-inference",
+                  "deck-gl",
+                  "ebpf",
+                  "erts",
+                  "homelab",
+                  "monitoring-tool",
+                  "netbox",
+                  "network-monitoring-tool",
+                  "network-scanning",
+                  "observability",
+                  "ocsf",
+                  "ocsf-schema",
+                  "otel",
+                  "ubiquiti",
+                  "wasi",
+                  "wasm",
+                  "wazero",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -678,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time log analysis for UniFi Routers — syslog receiver (SIEM), PostgreSQL storage, IP enrichment (GeoIP, AbuseIPDB, rDNS), and React UI with live streaming, threats maps, network flow, filters, and a dashboard.",
+                "homepage": null,
                 "id": 1153488651,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T08:44:05Z",
+                "open_issues": 35,
                 "owner": "jmasarweh",
                 "repo": "UniFi-Insights-Plus",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -707,12 +1139,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniFi Network Application - Home Assistant Community Apps",
+                "homepage": null,
                 "id": 136532086,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-08-27T23:04:07Z",
+                "open_issues": 4,
                 "owner": "hassio-addons",
                 "repo": "app-unifi",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "addon",
+                  "addons",
+                  "apps",
+                  "home-assistant",
+                  "home-assistant-apps",
+                  "homeassistant",
+                  "ubiquiti",
+                  "unifi",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -723,12 +1170,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unifi Access Integration for Home Assistant",
+                "homepage": null,
                 "id": 710961525,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T22:52:49Z",
+                "open_issues": 1,
                 "owner": "imhotep",
                 "repo": "hass-unifi-access",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "access-control",
+                  "home-assistant",
+                  "unifi-access"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -739,12 +1195,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integration with EdgeOS (Ubiquiti)",
+                "homepage": null,
                 "id": 169467285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-20T13:09:28Z",
+                "open_issues": 30,
                 "owner": "elad-bar",
                 "repo": "ha-edgeos",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "custom-component",
+                  "edgeos",
+                  "home-assistant"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -755,12 +1220,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniFi Hotspot Manager Integration",
+                "homepage": null,
                 "id": 651580675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:46:10Z",
+                "open_issues": 1,
                 "owner": "ufozone",
                 "repo": "ha-unifi-voucher",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "hacs",
+                  "hacs-integration",
+                  "home-assistant",
+                  "homeassistant",
+                  "ubiquiti",
+                  "ubiquiti-unifi-controller",
+                  "unifi",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -771,12 +1250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows you to manage, backup, and automate your UDM firewall policies, routes, and rules in Home Assistant",
+                "homepage": "https://chriskirby.net/automate-your-unifi-network-firewall-and-traffic-rules-with-home-assistant/",
                 "id": 856448738,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T16:25:26Z",
+                "open_issues": 3,
                 "owner": "sirkirby",
                 "repo": "unifi-network-rules",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "automation",
+                  "home-assistant",
+                  "integration",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -787,12 +1276,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive Home Assistant custom integration for monitoring and controlling your UniFi Network and UniFi Protect infrastructure using the official UniFi APIs.",
+                "homepage": null,
                 "id": 917968755,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:28:34Z",
+                "open_issues": 6,
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "hacs",
+                  "home-assistant",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -803,12 +1301,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Home Assistant custom integration provides real-time speed test monitoring for UniFi networks. It allows you to track download speed, upload speed, and ping directly within Home Assistant.",
+                "homepage": null,
                 "id": 922700195,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:27:16Z",
+                "open_issues": 0,
                 "owner": "biofects",
                 "repo": "HA-Unifi-Speedtest",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "ha",
+                  "home-assistant",
+                  "home-assistant-integration",
+                  "integration"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -819,12 +1327,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "control unifi access point LEDs via Home Assistant",
+                "homepage": null,
                 "id": 293911613,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-03-31T17:23:47Z",
+                "open_issues": 0,
                 "owner": "patagonaa",
                 "repo": "homeassistant-unifi-led",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "hacktoberfest",
+                  "home-assistant",
+                  "home-automation",
+                  "led",
+                  "mqtt",
+                  "unifi"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -842,12 +1362,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":video_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io",
+                "homepage": null,
                 "id": 200556823,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-19T20:47:25Z",
+                "open_issues": 2,
                 "owner": "hjdhjd",
                 "repo": "homebridge-unifi-protect",
-                "stars": 1776
+                "stars": 1776,
+                "topics": [
+                  "camera",
+                  "cameras",
+                  "doorbell",
+                  "homebridge",
+                  "homebridge-plugin",
+                  "homekit",
+                  "homekit-support",
+                  "motion-detection",
+                  "motion-sensor",
+                  "nvr",
+                  "security",
+                  "ubiquiti",
+                  "udm-pro",
+                  "unifi",
+                  "unifi-nvr",
+                  "unifi-os",
+                  "unifi-protect",
+                  "unifi-protect-controller",
+                  "unifi-protect-devices"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             },
@@ -858,12 +1403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniFi Access plugin for HomeKit (Homebridge)",
+                "homepage": null,
                 "id": 286555679,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T20:47:10Z",
+                "open_issues": 0,
                 "owner": "hjdhjd",
                 "repo": "homebridge-unifi-access",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -881,12 +1431,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ioBroker.unifi is an ioBroker adapter for your UniFi network devices.",
+                "homepage": null,
                 "id": 77393072,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T23:35:22Z",
+                "open_issues": 67,
                 "owner": "iobroker-community-adapters",
                 "repo": "ioBroker.unifi",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "home-automation",
+                  "iobroker",
+                  "javascript",
+                  "nodejs",
+                  "unifi",
+                  "unifi-controller"
+                ]
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
             }
@@ -908,12 +1470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable non-Ubiquiti cameras to work with Unifi NVR",
+            "homepage": null,
             "id": 130946307,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:46:26Z",
+            "open_issues": 4,
             "owner": "keshavdv",
             "repo": "unifi-cam-proxy",
-            "stars": 1868
+            "stars": 1868,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -924,12 +1491,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python tool to backup unifi event clips in realtime",
+            "homepage": null,
             "id": 460655464,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-11T15:21:31Z",
+            "open_issues": 18,
             "owner": "ep1cman",
             "repo": "unifi-protect-backup",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "python",
+              "python3",
+              "ubiquiti",
+              "unifi",
+              "unifi-protect",
+              "unifi-protect-cameras",
+              "unifi-protect-controller",
+              "unifi-protect-devices",
+              "unifi-protect-server"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -940,12 +1522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for downloading footage from a local UniFi Protect system",
+            "homepage": "https://ui-protect-dl-docs.danielfernau.com/",
             "id": 214804592,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-10T15:17:14Z",
+            "open_issues": 48,
             "owner": "danielfernau",
             "repo": "unifi-protect-video-downloader",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -956,12 +1543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nearly complete implementation of the UniFi Protect API.",
+            "homepage": null,
             "id": 443690684,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T16:52:39Z",
+            "open_issues": 0,
             "owner": "hjdhjd",
             "repo": "unifi-protect",
-            "stars": 405
+            "stars": 405,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -972,12 +1564,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Ubiquiti's proprietary .ubv files into standard MP4 files",
+            "homepage": null,
             "id": 251444004,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-15T15:52:56Z",
+            "open_issues": 0,
             "owner": "petergeneric",
             "repo": "unifi-protect-remux",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "file-format-conversion",
+              "file-format-converter",
+              "nvr",
+              "ubiquiti",
+              "ubv",
+              "unifi",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -994,12 +1599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nearly complete implementation of the UniFi Access API.",
+            "homepage": null,
             "id": 766034185,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T16:54:18Z",
+            "open_issues": 0,
             "owner": "hjdhjd",
             "repo": "unifi-access",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1010,12 +1620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project integrates UniFi Access with Airbnb reservations using ICS file or Hostex API, automating the process of creating and managing visitor access for your Airbnb guests.",
+            "homepage": null,
             "id": 846356659,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T15:00:45Z",
+            "open_issues": 2,
             "owner": "keithah",
             "repo": "unifi-access-airbnb",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1026,12 +1641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python connector for UniFi Access",
+            "homepage": null,
             "id": 851728489,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-12T21:08:12Z",
+            "open_issues": 0,
             "owner": "matejgordon",
             "repo": "unipyAccess",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "access-control",
+              "python",
+              "ubiquiti",
+              "unifi",
+              "unifi-access",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1042,12 +1669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlock Unifi Access doors using their own API that is not documented.",
+            "homepage": null,
             "id": 653533920,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-20T07:29:57Z",
+            "open_issues": 2,
             "owner": "phamels",
             "repo": "unifi_access_unlocker",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1064,12 +1696,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform provider for Unifi :satellite:",
+            "homepage": "https://registry.terraform.io/providers/paultyng/unifi/latest/docs",
             "id": 229852889,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-04-28T12:51:06Z",
+            "open_issues": 75,
             "owner": "paultyng",
             "repo": "terraform-provider-unifi",
-            "stars": 581
+            "stars": 581,
+            "topics": [
+              "terraform",
+              "terraform-provider",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1080,12 +1722,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pulumi provider for Unifi network gear",
+            "homepage": null,
             "id": 471123057,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:59:40Z",
+            "open_issues": 2,
             "owner": "pulumiverse",
             "repo": "pulumi-unifi",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "pulumi",
+              "pulumi-provider"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1102,12 +1752,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 36 free threat feeds",
+            "homepage": "https://wolffcatskyy.dev",
             "id": 1142058328,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-22T19:55:13Z",
+            "open_issues": 2,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "blocklist",
+              "crowdsec",
+              "cybersecurity",
+              "docker",
+              "firewall",
+              "ip-blocklist",
+              "security",
+              "threat-feeds",
+              "threat-intelligence",
+              "tor-exit-nodes"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1118,12 +1784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time log analysis for UniFi Routers — syslog receiver (SIEM), PostgreSQL storage, IP enrichment (GeoIP, AbuseIPDB, rDNS), and React UI with live streaming, threats maps, network flow, filters, and a dashboard.",
+            "homepage": null,
             "id": 1153488651,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T08:44:05Z",
+            "open_issues": 35,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 266
+            "stars": 266,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1134,12 +1805,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install and persist the official CrowdSec firewall bouncer on UniFi OS devices (UDM, UDM SE, UDR) with automatic recovery from firmware updates",
+            "homepage": "https://wolffcatskyy.dev",
             "id": 1141925141,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-22T01:49:52Z",
+            "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-bouncer",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "bash",
+              "crowdsec",
+              "crowdsec-bouncer",
+              "firewall",
+              "ip-blocklist",
+              "ipset",
+              "iptables",
+              "network-security",
+              "security",
+              "threat-intelligence",
+              "ubiquiti",
+              "udm-pro",
+              "unifi",
+              "unifi-dream-machine"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1150,12 +1841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A containerized service that monitors UniFi network logs and delivers plain-English reports via email or file",
+            "homepage": null,
             "id": 1141446915,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-13T00:57:40Z",
+            "open_issues": 15,
             "owner": "trek-e",
             "repo": "unifi-security-report",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1166,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor your network for unknown MAC addresses using data from UniFi network server and alerting using Pushover",
+            "homepage": null,
             "id": 1023721064,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2025-07-24T20:20:51Z",
+            "open_issues": 1,
             "owner": "coolcat1575",
             "repo": "netwatcher",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1182,12 +1883,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated threat intelligence for UniFi firewalls. Syncs IP lists from Spamhaus, Firehol, abuse.ch into UniFi firewall groups. Free alternative to UniFi Cyber-Secure.",
+            "homepage": null,
             "id": 1097667577,
             "language": "Rust",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-05T17:16:33Z",
+            "open_issues": 0,
             "owner": "LordOfPolls",
             "repo": "Unifi-Rampart",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cybersecurity",
+              "firewall",
+              "ip-blocklist",
+              "network-security",
+              "rust",
+              "threat-intelligence",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1198,12 +1913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS app to manage UniFi Firewall policies created for kids' downtime",
+            "homepage": null,
             "id": 1124026052,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-10T04:00:09Z",
+            "open_issues": 0,
             "owner": "shrisha",
             "repo": "SilenceTheLAN",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1214,12 +1934,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrowdSec parsers and iptables LOG rules for UniFi Dream Machines — get clean, parseable firewall logs from your UDM/UDR",
+            "homepage": "https://wolffcatskyy.dev",
             "id": 1148977841,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-16T15:44:54Z",
+            "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-parser",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "crowdsec",
+              "crowdsec-parser",
+              "firewall",
+              "iptables",
+              "network-security",
+              "security",
+              "syslog",
+              "threat-detection",
+              "ubiquiti",
+              "udm-pro",
+              "unifi",
+              "unifi-dream-machine"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1230,12 +1968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-command installer for CrowdSec + UniFi security stack (bouncer + parser + blocklist-import)",
+            "homepage": "https://wolffcatskyy.dev",
             "id": 1162108700,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-16T15:44:52Z",
+            "open_issues": 1,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-suite",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1252,12 +1995,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare DDNS (Dynamic DNS) support for UniFi OS",
+            "homepage": null,
             "id": 454939484,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:09:13Z",
+            "open_issues": 5,
             "owner": "willswire",
             "repo": "unifi-ddns",
-            "stars": 1280
+            "stars": 1280,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "ddns",
+              "ddns-updater",
+              "dns",
+              "ubiquiti",
+              "unifi",
+              "unifi-controller"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1268,12 +2025,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External-DNS Webhook to manage UniFi DNS Records",
+            "homepage": null,
             "id": 805039694,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:26:52Z",
+            "open_issues": 2,
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "0ver",
+              "dns",
+              "external-dns",
+              "external-dns-webhook",
+              "kubernetes",
+              "ui",
+              "unifi",
+              "unifi-network",
+              "webhook-server"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1284,12 +2056,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dnsmasq based Ad blocking for Unifi equipment (UDM-SE & UDM-PRO)",
+            "homepage": null,
             "id": 593633316,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-29T13:34:58Z",
+            "open_issues": 2,
             "owner": "ymichel",
             "repo": "dnsmasqAdBlockUDM",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1306,12 +2083,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Tailscale on your UniFi OS device",
+            "homepage": null,
             "id": 365583209,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:29:06Z",
+            "open_issues": 1,
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1694
+            "stars": 1694,
+            "topics": [
+              "tailscale",
+              "udm",
+              "udm-pro",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1322,12 +2109,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WireGuard for Ubiquiti Devices",
+            "homepage": "https://www.wireguard.com/",
             "id": 260995176,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-01T13:51:13Z",
+            "open_issues": 64,
             "owner": "WireGuard",
             "repo": "wireguard-vyatta-ubnt",
-            "stars": 1485
+            "stars": 1485,
+            "topics": [
+              "edgeos",
+              "ubiquiti",
+              "vpn",
+              "wireguard",
+              "wireguard-vpn"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1338,12 +2136,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.",
+            "homepage": null,
             "id": 332945711,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-10T02:38:16Z",
+            "open_issues": 40,
             "owner": "peacey",
             "repo": "split-vpn",
-            "stars": 842
+            "stars": 842,
+            "topics": [
+              "ipv6-support",
+              "openvpn",
+              "policy-based-routing",
+              "split-tunnel",
+              "udm",
+              "udm-pro",
+              "vpn",
+              "vpn-client",
+              "vpn-script",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1354,12 +2168,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Running Tailscale on Ubiquiti EdgeOS",
+            "homepage": null,
             "id": 350079350,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-14T20:32:36Z",
+            "open_issues": 3,
             "owner": "jamesog",
             "repo": "tailscale-edgeos",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "edgeos",
+              "edgerouter",
+              "tailscale",
+              "ubiquiti",
+              "ubnt"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1370,12 +2195,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WireGuard for UDM series routers",
+            "homepage": "https://www.wireguard.com/",
             "id": 354859079,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-03-02T21:44:26Z",
+            "open_issues": 11,
             "owner": "tusc",
             "repo": "wireguard-kmod",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "ubiquiti",
+              "unifios",
+              "vpn",
+              "wireguard",
+              "wireguard-vpn"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1386,12 +2222,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setup wpa_supplicant on Unifi Gateways to bypass ATT modem",
+            "homepage": null,
             "id": 735184168,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-10T22:04:30Z",
+            "open_issues": 4,
             "owner": "evie-lau",
             "repo": "Unifi-gateway-wpa-supplicant",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "att-fiber",
+              "bypass",
+              "network",
+              "ubiquiti",
+              "ubiquiti-router",
+              "ucg-fibre",
+              "ucg-max",
+              "ucg-pro",
+              "udm",
+              "udm-pro",
+              "udm-se",
+              "udr",
+              "udw",
+              "unifi",
+              "unifi-os",
+              "unifios",
+              "uxg",
+              "uxg-lite",
+              "uxg-pro",
+              "wpa-supplicant"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1402,12 +2264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WireGuard Wizard for Ubiquiti EdgeMAX Devices supporting Wizards",
+            "homepage": null,
             "id": 436036800,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-13T21:57:39Z",
+            "open_issues": 3,
             "owner": "vchrizz",
             "repo": "ER-wizard-WireGuard",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1424,12 +2291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "decrypt UniFi Network Application backup (.unf <=> .zip)",
+            "homepage": null,
             "id": 101405011,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2024-05-02T22:27:20Z",
+            "open_issues": 2,
             "owner": "zhangyoufu",
             "repo": "unifi-backup-decrypt",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1440,12 +2312,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdgeRouter to git repo backup scripts.",
+            "homepage": null,
             "id": 95153261,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-03-08T21:33:34Z",
+            "open_issues": 0,
             "owner": "psitem",
             "repo": "edgerouter-backup",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "backup",
+              "edgeos",
+              "edgerouter",
+              "ubiquiti"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1462,12 +2344,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers",
+            "homepage": null,
             "id": 123023453,
             "language": "EJS",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:47:20Z",
+            "open_issues": 1,
             "owner": "glenndehaan",
             "repo": "unifi-voucher-site",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "express",
+              "home-assistant",
+              "nodejs",
+              "unifi",
+              "unifi-voucher-site"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1478,12 +2371,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generates UniFi Hotspot vouchers using the UniFi controller API ready for printing",
+            "homepage": null,
             "id": 4183182,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-03-18T22:19:49Z",
+            "open_issues": 2,
             "owner": "DJM0",
             "repo": "unifi-voucher-generator",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "ubiquiti",
+              "unifi",
+              "voucher"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1494,12 +2396,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A touch-friendly and secure interface for streamlined creation and management of guest Wi-Fi vouchers on UniFi controllers.",
+            "homepage": null,
             "id": 1032554027,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T16:47:57Z",
+            "open_issues": 0,
             "owner": "etiennecollin",
             "repo": "unifi-voucher-manager",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "axum",
+              "nextjs",
+              "rust",
+              "tailwindcss",
+              "ubiquiti",
+              "ubiquiti-router",
+              "ubiquiti-unifi-controller",
+              "ubiquiti-unifi-network",
+              "unifi",
+              "unifi-api",
+              "unifi-controller",
+              "unifi-network",
+              "unifi-network-application",
+              "unifi-voucher"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1510,12 +2432,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External UniFi guest portal",
+            "homepage": null,
             "id": 272299624,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-20T23:38:56Z",
+            "open_issues": 2,
             "owner": "Carlgo11",
             "repo": "guest-portal",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "docker",
+              "guest-portal",
+              "unifi",
+              "web-portal"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1532,12 +2464,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's Encrypt support for Ubiquiti UniFi OS",
+            "homepage": null,
             "id": 245029154,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-20T15:32:13Z",
+            "open_issues": 5,
             "owner": "kchristensen",
             "repo": "udm-le",
-            "stars": 774
+            "stars": 774,
+            "topics": [
+              "letsencrypt",
+              "ssl",
+              "ubiquiti",
+              "udm",
+              "udmp",
+              "udw",
+              "unifi",
+              "unifios"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1548,12 +2494,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro) ",
+            "homepage": null,
             "id": 426938749,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2025-06-22T15:26:12Z",
+            "open_issues": 25,
             "owner": "fabianishere",
             "repo": "udm-iptv",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "ftth",
+              "iptv",
+              "kpn",
+              "ubiquiti",
+              "unifi",
+              "unifi-dream-machine"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1564,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to configure your UniFi network for Sonos",
+            "homepage": null,
             "id": 392067248,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-06T20:09:06Z",
+            "open_issues": 3,
             "owner": "IngmarStein",
             "repo": "unifi-sonos-doc",
-            "stars": 578
+            "stars": 578,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1580,12 +2543,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for bootstrapping custom kernels on the UniFi Dream Machine",
+            "homepage": null,
             "id": 340867405,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2023-04-02T17:30:42Z",
+            "open_issues": 10,
             "owner": "fabianishere",
             "repo": "udm-kernel-tools",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "kernel",
+              "linux",
+              "udm",
+              "udm-pro",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1596,12 +2570,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intelligent adaptive fan controller for UniFi OS devices. Multi-fan auto-detection, quadratic response curve, learning PWM optimization. Works on UDM-SE, UDM-Pro-Max, UCG-Max, UCG-Fibre, UXG-Fibre, UDR7, UNVR.",
+            "homepage": null,
             "id": 925428996,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-09T20:16:57Z",
+            "open_issues": 0,
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "adaptive-fan-control",
+              "bash",
+              "fan-control",
+              "pwm",
+              "systemd",
+              "temperature-monitoring",
+              "thermal-management",
+              "ubiquiti",
+              "udm",
+              "udm-pro-max",
+              "udm-se",
+              "udr7",
+              "unifi",
+              "unvr",
+              "uxg-fibre"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1612,12 +2607,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Linux kernels for the UniFi Dream Machine",
+            "homepage": "https://github.com/fabianishere/udm-kernel-tools",
             "id": 331129522,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-24T10:40:24Z",
+            "open_issues": 3,
             "owner": "fabianishere",
             "repo": "udm-kernel",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "kernel",
+              "linux",
+              "ubiquiti",
+              "udm",
+              "udm-pro",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1628,12 +2635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic fan speed setting on UDM-PRO 1.8.5+ firmware",
+            "homepage": null,
             "id": 339776509,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-06-22T18:15:05Z",
+            "open_issues": 2,
             "owner": "renedis",
             "repo": "ubnt-auto-fan-speed",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1644,12 +2656,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unifi UDM-Pro prosumer network configuration",
+            "homepage": null,
             "id": 398662158,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-03-11T00:55:39Z",
+            "open_issues": 2,
             "owner": "davidjenni",
             "repo": "udm-pro-network",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "configuration",
+              "networking",
+              "ubiquiti",
+              "udm-pro",
+              "unifi",
+              "vlan"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1660,12 +2684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple set of readme's for how to setup IoT and VLANS on the Unifi Dream Machine / Dream Machine Pro",
+            "homepage": null,
             "id": 375006859,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-14T19:39:57Z",
+            "open_issues": 0,
             "owner": "TobyAnscombe",
             "repo": "udm-setup",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1676,12 +2705,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unifi UDM Pro Iszo XPON UNO Verizon FiOS",
+            "homepage": null,
             "id": 843943969,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-29T14:20:33Z",
+            "open_issues": 2,
             "owner": "esmith443",
             "repo": "Verizon-ONT-Bypass",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "fios",
+              "gpon",
+              "homelab",
+              "isp",
+              "networking",
+              "ont",
+              "onu",
+              "ubiquiti",
+              "udm-pro",
+              "unifi",
+              "verizon",
+              "xpon"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1692,12 +2739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple script to provide basic DHCP hostname resolution in the latest UniFi Dream Machine Pro firmware.",
+            "homepage": null,
             "id": 256667683,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-22T03:38:28Z",
+            "open_issues": 3,
             "owner": "cdchris12",
             "repo": "UDM-DNS-Fix",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1708,12 +2760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare Dynamic DNS backend for Inadyn. To use with Unifi Dream Machine / Pro",
+            "homepage": null,
             "id": 280536326,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-28T15:58:30Z",
+            "open_issues": 2,
             "owner": "blackjid",
             "repo": "inadyn-cloudflare",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1724,12 +2781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "multicast-relay docker for UniFi Dream Machines",
+            "homepage": null,
             "id": 223816147,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:34:12Z",
+            "open_issues": 4,
             "owner": "scyto",
             "repo": "multicast-relay",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1740,12 +2802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacks for my Unifi Dream Machine (UDM) Pro",
+            "homepage": null,
             "id": 334311810,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-07-06T16:12:19Z",
+            "open_issues": 0,
             "owner": "dlk3",
             "repo": "udm-hacks",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1756,12 +2823,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "macvlan kernel module for UniFi OS devices",
+            "homepage": null,
             "id": 574935953,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-08T13:58:27Z",
+            "open_issues": 18,
             "owner": "whi-tw",
             "repo": "macvlan-unifios",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "kernel-module",
+              "linux",
+              "udm",
+              "udm-pro",
+              "udm-se",
+              "udr",
+              "unifi",
+              "unifi-os"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1772,12 +2853,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caddy proxy for Ubiquiti UDM Pro",
+            "homepage": null,
             "id": 477145177,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-03-04T12:19:28Z",
+            "open_issues": 0,
             "owner": "xpherism",
             "repo": "udm-proxy",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "caddy",
+              "haproxy",
+              "reverse-proxy",
+              "traefik",
+              "udm-pro"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1788,12 +2880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniFi OS Utilities",
+            "homepage": null,
             "id": 603282030,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-24T13:37:05Z",
+            "open_issues": 0,
             "owner": "johnstonjs",
             "repo": "unifios-utils",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1810,12 +2907,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blacklist and Adware Blocking for the Ubiquiti EdgeMax Router",
+            "homepage": null,
             "id": 49754843,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-06T01:37:07Z",
+            "open_issues": 4,
             "owner": "britannic",
             "repo": "blacklist",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "blacklist",
+              "blacklist-configuration",
+              "blacklist-sources",
+              "dnsmasq",
+              "donations",
+              "edgemax",
+              "edgeos",
+              "edgeos-dnsmasq-blacklist",
+              "paypal",
+              "paypal-money-transfer",
+              "router",
+              "routers",
+              "sponsorship",
+              "ubiquiti",
+              "unifi",
+              "usg",
+              "usgs"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1826,12 +2946,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's Encrypt setup instructions for Ubiquiti EdgeRouter",
+            "homepage": null,
             "id": 78507106,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-11-19T16:47:54Z",
+            "open_issues": 3,
             "owner": "j-c-m",
             "repo": "ubnt-letsencrypt",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "acme",
+              "acme-protocol",
+              "edgerouter",
+              "letsencrypt",
+              "ubiquiti-edgerouter"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1842,12 +2973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make a Ubiquiti EdgeOS image from a system tarball",
+            "homepage": null,
             "id": 75029084,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-14T21:05:20Z",
+            "open_issues": 4,
             "owner": "sowbug",
             "repo": "mkeosimg",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1858,12 +2994,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's Encrypt setup instructions for Ubiquiti EdgeRouter using DNS-01",
+            "homepage": null,
             "id": 102614555,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-06-17T08:19:36Z",
+            "open_issues": 5,
             "owner": "hungnguyenm",
             "repo": "edgemax-acme",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "acme",
+              "dns-01",
+              "edgerouter",
+              "letsencrypt"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1874,12 +3020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using the files from https://github.com/jaysoffian/eap_proxy these are the instructions to get a fully functional bypass using a EdgeRouter Lite and AT&T router",
+            "homepage": null,
             "id": 201695417,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-29T03:58:45Z",
+            "open_issues": 0,
             "owner": "Genghis1227",
             "repo": "guide_eap_proxy",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1890,12 +3041,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An API wrapper for Ubiquiti EdgeOS, the operating system used by Ubiquiti Inc's EdgeRouter & UFiber OLT products (part of the EdgeMax product range).",
+            "homepage": null,
             "id": 270288054,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-01-31T18:17:08Z",
+            "open_issues": 1,
             "owner": "Matthew1471",
             "repo": "EdgeOS-API",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "api",
+              "edgemax",
+              "edgemax-product-range",
+              "edgeos",
+              "edgeos-api",
+              "edgerouter",
+              "edgerouter-products",
+              "olt",
+              "onu",
+              "ubiquiti",
+              "ubiquiti-edgeos",
+              "ubiquiti-edgerouter",
+              "ufiber",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1906,12 +3077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Openwrt: Edgerouter X migration scripts for installing or upgrading to Openwrt 24.10",
+            "homepage": null,
             "id": 798050060,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-16T23:40:23Z",
+            "open_issues": 5,
             "owner": "darkxst",
             "repo": "erx-migration",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1922,12 +3098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support scripts and files to get DNSCrypt-Proxy 2, dnsmasq, and DNSSEC running on the Edgerouter Lite and USG family of devices.",
+            "homepage": null,
             "id": 149038607,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-03T16:43:23Z",
+            "open_issues": 0,
             "owner": "darkgrue",
             "repo": "Ubiquiti-DNSCrypt-Proxy-2-Configuration-Scripts",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -1944,12 +3125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+            "homepage": "http://unifimcp.com/",
             "id": 970267776,
             "language": "Python",
-            "last_commit": "2026-08-29T02:46:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:47:41Z",
+            "open_issues": 23,
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 754
+            "stars": 754,
+            "topics": [
+              "agentic-ai",
+              "home-automation",
+              "mcp-server",
+              "unifi",
+              "unifi-access",
+              "unifi-controller",
+              "unifi-network",
+              "unifi-protect"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1960,12 +3155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time log analysis for UniFi Routers — syslog receiver (SIEM), PostgreSQL storage, IP enrichment (GeoIP, AbuseIPDB, rDNS), and React UI with live streaming, threats maps, network flow, filters, and a dashboard.",
+            "homepage": null,
             "id": 1153488651,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T08:44:05Z",
+            "open_issues": 35,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 266
+            "stars": 266,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1976,12 +3176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server that leverages official UniFi API",
+            "homepage": null,
             "id": 1078608430,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T03:18:12Z",
+            "open_issues": 16,
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -1992,12 +3197,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs.",
+            "homepage": null,
             "id": 1074444345,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-20T14:42:23Z",
+            "open_issues": 18,
             "owner": "bjeans",
             "repo": "homelab-mcp",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "ansible",
+              "automation",
+              "claude",
+              "docker",
+              "homelab",
+              "infrastructure-management",
+              "mcp",
+              "mcp-server",
+              "ollama",
+              "pi-hole",
+              "pihole",
+              "podman",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -2014,12 +3239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the reverse engineered inform protocol used in Ubiquiti's UniFi access points",
+            "homepage": null,
             "id": 40707659,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-18T14:20:44Z",
+            "open_issues": 2,
             "owner": "jeffreykog",
             "repo": "unifi-inform-protocol",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -2030,12 +3260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniFi Network and Protect API OpenAPI specifications",
+            "homepage": null,
             "id": 1122962211,
             "language": "Python",
-            "last_commit": "2026-08-20T05:00:18Z",
+            "license": null,
+            "last_commit": "2026-08-29T05:00:16Z",
+            "open_issues": 0,
             "owner": "beezly",
             "repo": "unifi-apis",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -2046,12 +3281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guide to running Tailscale on a UDM(Pro)",
+            "homepage": null,
             "id": 387034580,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-07-23T19:56:19Z",
+            "open_issues": 2,
             "owner": "MinisculeGirraffe",
             "repo": "Tailscale-UDMPro",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -2062,12 +3302,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tailscale subnet routing behind a UniFi Gateway using redundant Debian VMs with FRR + BGP",
+            "homepage": null,
             "id": 870669363,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-26T16:37:56Z",
+            "open_issues": 0,
             "owner": "mzac",
             "repo": "unifi-debian-tailscale-bgp",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bgp",
+              "debian",
+              "frr",
+              "homelab",
+              "routing",
+              "subnet-router",
+              "tailscale",
+              "ubiquiti",
+              "unifi",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         },
@@ -2078,12 +3334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAPI Definition for Unifi Controller API",
+            "homepage": "https://ubiquiti-community.github.io/unifi-api/",
             "id": 745364355,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T10:22:26Z",
+            "open_issues": 8,
             "owner": "ubiquiti-community",
             "repo": "unifi-api",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
         }
@@ -2092,15 +3353,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:14.138Z",
+    "last_updated": "2026-08-29T05:04:11.215Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources",
+      "homepage": "https://wolffcatskyy.dev",
       "id": 1158881005,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-22T01:18:32Z",
+      "open_issues": 3,
       "owner": "wolffcatskyy",
       "repo": "awesome-unifi",
-      "stars": 65
+      "stars": 65,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dream-machine",
+        "homelab",
+        "networking",
+        "ubiquiti",
+        "unifi",
+        "unifi-controller"
+      ]
     },
     "original_repository_sha": "4e41ca0a0f7ac9a68f4f01191a4b7732efc737ad",
     "enhanced_repository": "enhansome/enhansome-unifi",
