@@ -99,11 +99,11 @@
                 "id": 350072947,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T11:34:33Z",
+                "last_commit": "2026-09-07T17:12:45Z",
                 "open_issues": 13,
                 "owner": "thib3113",
                 "repo": "unifi-client",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "cloud-key",
                   "network",
@@ -378,7 +378,7 @@
             "open_issues": 0,
             "owner": "unifi-utilities",
             "repo": "unifi-common",
-            "stars": 4363,
+            "stars": 4364,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -427,11 +427,11 @@
             "id": 1112791885,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T13:48:34Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-07T21:47:46Z",
+            "open_issues": 66,
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 990,
+            "stars": 996,
             "topics": [
               "bufferbloat",
               "crowdsec",
@@ -709,8 +709,8 @@
             "id": 30978978,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-27T04:47:43Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T01:49:06Z",
+            "open_issues": 15,
             "owner": "jacobalberty",
             "repo": "unifi-docker",
             "stars": 2616,
@@ -783,7 +783,7 @@
             "open_issues": 28,
             "owner": "Nico640",
             "repo": "docker-unms",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "amd64",
               "arm",
@@ -880,11 +880,11 @@
                 "id": 130408606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T17:08:55Z",
+                "last_commit": "2026-09-07T11:26:34Z",
                 "open_issues": 3,
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2700,
+                "stars": 2701,
                 "topics": [
                   "cloudkey",
                   "grafana-dashboard",
@@ -1072,10 +1072,52 @@
                 "open_issues": 32,
                 "owner": "jmasarweh",
                 "repo": "UniFi-Insights-Plus",
-                "stars": 270,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
+            },
+            {
+              "node_type": "item",
+              "title": "carverauto/serviceradar",
+              "description": "Zero-trust open-source network management and observability platform with UniFi support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-Source Network Management, Monitoring, ITOM, and Security Analytics",
+                "homepage": "https://serviceradar.cloud",
+                "id": 916252207,
+                "language": "Elixir",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-07T22:22:37Z",
+                "open_issues": 308,
+                "owner": "carverauto",
+                "repo": "serviceradar",
+                "stars": 5,
+                "topics": [
+                  "armis",
+                  "causal-discovery",
+                  "causal-inference",
+                  "deck-gl",
+                  "ebpf",
+                  "erts",
+                  "homelab",
+                  "monitoring-tool",
+                  "netbox",
+                  "network-monitoring-tool",
+                  "network-scanning",
+                  "observability",
+                  "ocsf",
+                  "ocsf-schema",
+                  "otel",
+                  "ubiquiti",
+                  "wasi",
+                  "wasm",
+                  "wazero",
+                  "zero-trust"
+                ]
+              },
+              "first_seen": "2026-09-07T23:01:20.135Z"
             }
           ],
           "description": null,
@@ -1162,7 +1204,7 @@
                 "open_issues": 30,
                 "owner": "elad-bar",
                 "repo": "ha-edgeos",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "custom-component",
                   "edgeos",
@@ -1239,8 +1281,8 @@
                 "id": 917968755,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T04:55:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-07T05:28:35Z",
+                "open_issues": 4,
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
                 "stars": 40,
@@ -1437,7 +1479,7 @@
             "open_issues": 3,
             "owner": "keshavdv",
             "repo": "unifi-cam-proxy",
-            "stars": 1869,
+            "stars": 1870,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1719,7 +1761,7 @@
             "open_issues": 4,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "blocklist",
               "crowdsec",
@@ -1751,7 +1793,7 @@
             "open_issues": 32,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 270,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1772,7 +1814,7 @@
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-bouncer",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "bash",
               "crowdsec",
@@ -1808,7 +1850,7 @@
             "open_issues": 15,
             "owner": "trek-e",
             "repo": "unifi-security-report",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1829,7 +1871,7 @@
             "open_issues": 1,
             "owner": "coolcat1575",
             "repo": "netwatcher",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1850,7 +1892,7 @@
             "open_issues": 0,
             "owner": "LordOfPolls",
             "repo": "Unifi-Rampart",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "cybersecurity",
               "firewall",
@@ -1880,7 +1922,7 @@
             "open_issues": 0,
             "owner": "shrisha",
             "repo": "SilenceTheLAN",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1901,7 +1943,7 @@
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-parser",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "crowdsec",
               "crowdsec-parser",
@@ -1935,7 +1977,7 @@
             "open_issues": 1,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-suite",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1958,11 +2000,11 @@
             "id": 454939484,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:59:37Z",
+            "last_commit": "2026-09-07T02:39:54Z",
             "open_issues": 5,
             "owner": "willswire",
             "repo": "unifi-ddns",
-            "stars": 1281,
+            "stars": 1282,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -2047,7 +2089,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-06T05:09:52Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
             "stars": 1706,
@@ -2186,7 +2228,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-10T22:04:30Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "evie-lau",
             "repo": "Unifi-gateway-wpa-supplicant",
             "stars": 108,
@@ -2231,7 +2273,7 @@
             "open_issues": 3,
             "owner": "vchrizz",
             "repo": "ER-wizard-WireGuard",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2258,7 +2300,7 @@
             "open_issues": 2,
             "owner": "zhangyoufu",
             "repo": "unifi-backup-decrypt",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2311,7 +2353,7 @@
             "open_issues": 1,
             "owner": "glenndehaan",
             "repo": "unifi-voucher-site",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "express",
               "home-assistant",
@@ -2338,7 +2380,7 @@
             "open_issues": 2,
             "owner": "DJM0",
             "repo": "unifi-voucher-generator",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "ubiquiti",
               "unifi",
@@ -2363,7 +2405,7 @@
             "open_issues": 0,
             "owner": "etiennecollin",
             "repo": "unifi-voucher-manager",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "axum",
               "nextjs",
@@ -2489,7 +2531,7 @@
             "open_issues": 3,
             "owner": "IngmarStein",
             "repo": "unifi-sonos-doc",
-            "stars": 580,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2537,7 +2579,7 @@
             "open_issues": 0,
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "adaptive-fan-control",
               "bash",
@@ -2574,7 +2616,7 @@
             "open_issues": 3,
             "owner": "fabianishere",
             "repo": "udm-kernel",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "kernel",
               "linux",
@@ -2602,7 +2644,7 @@
             "open_issues": 2,
             "owner": "renedis",
             "repo": "ubnt-auto-fan-speed",
-            "stars": 117,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2623,7 +2665,7 @@
             "open_issues": 2,
             "owner": "davidjenni",
             "repo": "udm-pro-network",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "configuration",
               "networking",
@@ -2651,7 +2693,7 @@
             "open_issues": 0,
             "owner": "TobyAnscombe",
             "repo": "udm-setup",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2748,7 +2790,7 @@
             "open_issues": 4,
             "owner": "scyto",
             "repo": "multicast-relay",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2769,7 +2811,7 @@
             "open_issues": 0,
             "owner": "dlk3",
             "repo": "udm-hacks",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2847,7 +2889,7 @@
             "open_issues": 0,
             "owner": "johnstonjs",
             "repo": "unifios-utils",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -3088,11 +3130,11 @@
             "id": 970267776,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T22:22:34Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-07T21:29:20Z",
+            "open_issues": 25,
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 791,
+            "stars": 794,
             "topics": [
               "agentic-ai",
               "home-automation",
@@ -3122,7 +3164,7 @@
             "open_issues": 32,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 270,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -3311,7 +3353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:24:10.544Z",
+    "last_updated": "2026-09-07T23:01:20.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources",
