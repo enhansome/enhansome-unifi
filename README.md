@@ -60,7 +60,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 ### Node.js / JavaScript
 
 * [jens-maus/node-unifi](https://github.com/jens-maus/node-unifi) ⭐ 161 | 🐛 33 | 🌐 JavaScript | 📅 2026-05-29 - Node.js class for querying and controlling UniFi Controllers across all hardware platforms.
-* [thib3113/unifi-client](https://github.com/thib3113/unifi-client) ⭐ 47 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-10 - Node.js client for UniFi products.
+* [thib3113/unifi-client](https://github.com/thib3113/unifi-client) ⭐ 47 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-12 - Node.js client for UniFi products.
 
 ### Go
 
@@ -84,13 +84,13 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## Controller & Management
 
-* [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) ⭐ 4,366 | 🐛 0 | 🌐 Shell | 📅 2026-07-31 - Community collection of utilities and enhancements for UniFi OS.
+* [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) ⭐ 4,367 | 🐛 0 | 🌐 Shell | 📅 2026-07-31 - Community collection of utilities and enhancements for UniFi OS.
 * [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) ⭐ 1,261 | 🐛 8 | 🌐 PHP | 📅 2026-02-24 - Tool to browse data exposed by Ubiquiti's UniFi Controller API.
-* [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) ⭐ 1,004 | 🐛 67 | 🌐 C# | 📅 2026-09-11 - Self-hosted performance optimization and security audit tool for UniFi Networks.
+* [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) ⭐ 1,005 | 🐛 67 | 🌐 C# | 📅 2026-09-11 - Self-hosted performance optimization and security audit tool for UniFi Networks.
 * [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) ⭐ 786 | 🐛 24 | 🌐 Shell | 📅 2026-03-30 - Install the UniFi Controller software on pfSense and other FreeBSD systems.
 * [stevejenkins/unifi-linux-utils](https://github.com/stevejenkins/unifi-linux-utils) ⭐ 718 | 🐛 24 | 🌐 Shell | 📅 2023-06-30 - Helpful Linux/Unix scripts for admins of Ubiquiti UniFi wireless products.
 * [Crosstalk-Solutions/unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) ⭐ 513 | 🐛 9 | 🌐 Python | 📅 2026-04-27 - Suite of tools for UniFi network management.
-* [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) ⭐ 254 | 🐛 1 | 🌐 Rust | 📅 2026-08-07 - Rust CLI and TUI for managing UniFi controllers via dual Integration and Legacy APIs with real-time WebSocket events.
+* [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) ⭐ 256 | 🐛 1 | 🌐 Rust | 📅 2026-08-07 - Rust CLI and TUI for managing UniFi controllers via dual Integration and Legacy APIs with real-time WebSocket events.
 * [Unifi-Tools/UFiber.Configurator](https://github.com/Unifi-Tools/UFiber.Configurator) ⭐ 217 | 🐛 32 | 🌐 C# | 📅 2024-08-18 - Configuration tool for managing and provisioning Ubiquiti UFiber GPON devices.
 * [ZSamuels28/UnifiClientCheck-Docker](https://github.com/ZSamuels28/UnifiClientCheck-Docker) ⭐ 54 | 🐛 1 | 🌐 Go | 📅 2026-07-17 - Monitor UniFi networks for new devices with Telegram or Ntfy alerts.
 * [veteranbv/unifi-client-updater](https://github.com/veteranbv/unifi-client-updater) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2025-04-01 - Bulk update client names and metadata across UniFi sites.
@@ -99,8 +99,8 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## Docker Images
 
-* [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) ⭐ 2,617 | 🐛 17 | 🌐 Shell | 📅 2026-09-11 - UniFi Docker files.
-* [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) ⭐ 1,169 | 🐛 6 | 🌐 Dockerfile | 📅 2026-09-08 - LinuxServer.io Docker image for UniFi Network Application.
+* [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) ⭐ 2,618 | 🐛 18 | 🌐 Shell | 📅 2026-09-11 - UniFi Docker files.
+* [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) ⭐ 1,172 | 🐛 6 | 🌐 Dockerfile | 📅 2026-09-08 - LinuxServer.io Docker image for UniFi Network Application.
 * [goofball222/unifi](https://github.com/goofball222/unifi) ⭐ 321 | 🐛 3 | 🌐 Shell | 📅 2026-09-09 - UniFi Docker Container.
 * [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ⭐ 278 | 🐛 28 | 🌐 Dockerfile | 📅 2026-06-04 - All-in-one Docker image for Ubiquiti UISP (formerly UNMS) - supports x86\_64 and ARM.
 * [GiuseppeGalilei/Unifi-Network-Application](https://github.com/GiuseppeGalilei/Unifi-Network-Application) ⭐ 196 | 🐛 11 | 🌐 Shell | 📅 2024-05-12 - Easily deploy UniFi Network Application on Docker.
@@ -110,7 +110,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ### Prometheus & Grafana
 
-* [unpoller/unpoller](https://github.com/unpoller/unpoller) ⭐ 2,704 | 🐛 1 | 🌐 Go | 📅 2026-09-11 - Collect all UniFi Controller, site, device, and client data and export to InfluxDB or Prometheus.
+* [unpoller/unpoller](https://github.com/unpoller/unpoller) ⭐ 2,705 | 🐛 2 | 🌐 Go | 📅 2026-09-11 - Collect all UniFi Controller, site, device, and client data and export to InfluxDB or Prometheus.
 * [timothystewart6/unpoller-unifi](https://github.com/timothystewart6/unpoller-unifi) ⭐ 136 | 🐛 2 | 📅 2026-05-21 - Ready-to-run Docker Compose stack for monitoring UniFi networks with UnPoller, Prometheus, and Grafana (third-party deployment stack).
 * [unpoller/dashboards](https://github.com/unpoller/dashboards) ⭐ 45 | 🐛 13 | 🌐 Shell | 📅 2026-08-31 - Pre-built Grafana dashboards for visualizing UnPoller data (companion dashboards).
 * [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) ⭐ 24 | 🐛 0 | 📅 2023-07-15 - Prometheus SNMP exporter generator and SNMP configs for UniFi access points.
@@ -122,14 +122,14 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ### Other Monitoring
 
-* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 275 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - Self-hosted real-time syslog analysis for UniFi gateways with GeoIP enrichment, threat intelligence, and interactive dashboards.
-* [carverauto/serviceradar](https://github.com/carverauto/serviceradar) ⭐ 3 | 🐛 278 | 🌐 Elixir | 📅 2026-09-11 - Zero-trust open-source network management and observability platform with UniFi support.
+* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 280 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - Self-hosted real-time syslog analysis for UniFi gateways with GeoIP enrichment, threat intelligence, and interactive dashboards.
+* [carverauto/serviceradar](https://github.com/carverauto/serviceradar) ⭐ 3 | 🐛 287 | 🌐 Elixir | 📅 2026-09-12 - Zero-trust open-source network management and observability platform with UniFi support.
 
 ## Home Automation
 
 ### Home Assistant
 
-* [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) ⭐ 380 | 🐛 5 | 🌐 Dockerfile | 📅 2026-08-27 - UniFi Network Application - Home Assistant Community Add-ons.
+* [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) ⭐ 380 | 🐛 5 | 🌐 Dockerfile | 📅 2026-09-12 - UniFi Network Application - Home Assistant Community Add-ons.
 * [imhotep/hass-unifi-access](https://github.com/imhotep/hass-unifi-access) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-07-21 - UniFi Access Integration for Home Assistant.
 * [elad-bar/ha-edgeos](https://github.com/elad-bar/ha-edgeos) ⭐ 147 | 🐛 30 | 🌐 Python | 📅 2025-09-20 - Home Assistant integration for Ubiquiti EdgeOS routers.
 * [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2026-09-11 - UniFi Hotspot Manager Integration.
@@ -170,7 +170,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 ## Security Tools
 
 * [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) ⭐ 351 | 🐛 4 | 🌐 Python | 📅 2026-09-02 - Import 120k+ IPs from 36 free threat feeds into CrowdSec decisions for UniFi.
-* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 275 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - Real-time syslog analysis for UniFi gateways with AbuseIPDB threat scoring, threat maps, and firewall policy management.
+* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 280 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - Real-time syslog analysis for UniFi gateways with AbuseIPDB threat scoring, threat maps, and firewall policy management.
 * [wolffcatskyy/crowdsec-unifi-bouncer](https://github.com/wolffcatskyy/crowdsec-unifi-bouncer) ⭐ 44 | 🐛 0 | 🌐 Go | 📅 2026-07-22 - Install and persist the official CrowdSec firewall bouncer on UniFi OS devices.
 * [trek-e/unifi-security-report](https://github.com/trek-e/unifi-security-report) ⭐ 26 | 🐛 15 | 🌐 Python | 📅 2026-04-13 - Containerized service that monitors UniFi network logs and delivers plain-English reports.
 * [coolcat1575/netwatcher](https://github.com/coolcat1575/netwatcher) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2025-07-24 - Monitor your network for unknown MAC addresses using data from UniFi.
@@ -181,18 +181,18 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## DNS & DDNS
 
-* [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) ⭐ 1,282 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-11 - Cloudflare DDNS (Dynamic DNS) support for UniFi OS.
-* [kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook) ⭐ 321 | 🐛 2 | 🌐 Go | 📅 2026-09-10 - External-DNS Webhook to manage UniFi DNS Records.
+* [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) ⭐ 1,282 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-11 - Cloudflare DDNS (Dynamic DNS) support for UniFi OS.
+* [kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook) ⭐ 321 | 🐛 2 | 🌐 Go | 📅 2026-09-12 - External-DNS Webhook to manage UniFi DNS Records.
 * [ymichel/dnsmasqAdBlockUDM](https://github.com/ymichel/dnsmasqAdBlockUDM) ⭐ 16 | 🐛 2 | 🌐 Shell | 📅 2025-01-29 - Dnsmasq based Ad blocking for UniFi equipment (UDM-SE and UDM-PRO).
 
 ## VPN & WireGuard
 
-* [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) ⭐ 1,710 | 🐛 2 | 🌐 Shell | 📅 2026-09-06 - Run Tailscale on your UniFi Dream Machine.
+* [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) ⭐ 1,711 | 🐛 1 | 🌐 Shell | 📅 2026-09-06 - Run Tailscale on your UniFi Dream Machine.
 * [WireGuard/wireguard-vyatta-ubnt](https://github.com/WireGuard/wireguard-vyatta-ubnt) ⭐ 1,485 | 🐛 64 | 🌐 Shell | 📅 2026-04-01 - WireGuard for Ubiquiti Devices.
 * [peacey/split-vpn](https://github.com/peacey/split-vpn) ⭐ 842 | 🐛 40 | 🌐 Shell | 📅 2023-07-10 - Policy-based split tunnel VPN for UniFi OS gateways.
 * [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) ⭐ 402 | 🐛 3 | 🌐 Shell | 📅 2024-02-14 - Running Tailscale on Ubiquiti EdgeOS.
 * [tusc/wireguard-kmod](https://github.com/tusc/wireguard-kmod) ⭐ 342 | 🐛 11 | 🌐 Shell | 📅 2023-03-02 - WireGuard for UDM series routers.
-* [evie-lau/Unifi-gateway-wpa-supplicant](https://github.com/evie-lau/Unifi-gateway-wpa-supplicant) ⭐ 109 | 🐛 6 | 📅 2026-07-10 - Set up wpa\_supplicant on UniFi Gateways to bypass the AT\&T modem.
+* [evie-lau/Unifi-gateway-wpa-supplicant](https://github.com/evie-lau/Unifi-gateway-wpa-supplicant) ⭐ 110 | 🐛 6 | 📅 2026-07-10 - Set up wpa\_supplicant on UniFi Gateways to bypass the AT\&T modem.
 * [vchrizz/ER-wizard-WireGuard](https://github.com/vchrizz/ER-wizard-WireGuard) ⭐ 108 | 🐛 3 | 🌐 HTML | 📅 2025-08-13 - WireGuard Wizard for Ubiquiti EdgeMAX Devices.
 
 ## Backup Tools
@@ -212,7 +212,7 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 * [kchristensen/udm-le](https://github.com/kchristensen/udm-le) ⭐ 775 | 🐛 5 | 🌐 Shell | 📅 2026-05-20 - Let's Encrypt support for Ubiquiti UniFi OS.
 * [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) ⭐ 626 | 🐛 26 | 🌐 Shell | 📅 2025-06-22 - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro).
 * [IngmarStein/unifi-sonos-doc](https://github.com/IngmarStein/unifi-sonos-doc) ⭐ 582 | 🐛 3 | 📅 2025-04-06 - How to configure your UniFi network for Sonos.
-* [fabianishere/udm-kernel-tools](https://github.com/fabianishere/udm-kernel-tools) ⭐ 339 | 🐛 10 | 🌐 Shell | 📅 2023-04-02 - Tools for bootstrapping custom kernels on the UniFi Dream Machine.
+* [fabianishere/udm-kernel-tools](https://github.com/fabianishere/udm-kernel-tools) ⭐ 340 | 🐛 10 | 🌐 Shell | 📅 2023-04-02 - Tools for bootstrapping custom kernels on the UniFi Dream Machine.
 * [iceteaSA/ucg-max-fan-control](https://github.com/iceteaSA/ucg-max-fan-control) ⭐ 248 | 🐛 1 | 🌐 Shell | 📅 2026-08-09 - UXG-Max/Fibre Dynamic Fan Control.
 * [fabianishere/udm-kernel](https://github.com/fabianishere/udm-kernel) ⭐ 135 | 🐛 3 | 🌐 C | 📅 2023-01-24 - Custom Linux kernels for the UniFi Dream Machine.
 * [renedis/ubnt-auto-fan-speed](https://github.com/renedis/ubnt-auto-fan-speed) ⭐ 118 | 🐛 2 | 🌐 Shell | 📅 2026-06-22 - Automatic fan speed setting on UDM-PRO 1.8.5+ firmware.
@@ -229,10 +229,10 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## EdgeRouter / EdgeOS
 
-* [britannic/blacklist](https://github.com/britannic/blacklist) ⭐ 535 | 🐛 4 | 🌐 Go | 📅 2023-09-06 - Blacklist and Adware Blocking for the Ubiquiti EdgeMax Router.
+* [britannic/blacklist](https://github.com/britannic/blacklist) ⭐ 536 | 🐛 4 | 🌐 Go | 📅 2023-09-06 - Blacklist and Adware Blocking for the Ubiquiti EdgeMax Router.
 * [j-c-m/ubnt-letsencrypt](https://github.com/j-c-m/ubnt-letsencrypt) ⭐ 484 | 🐛 3 | 🌐 Shell | 📅 2023-11-19 - Let's Encrypt setup instructions for Ubiquiti EdgeRouter.
 * [sowbug/mkeosimg](https://github.com/sowbug/mkeosimg) ⭐ 200 | 🐛 4 | 🌐 Shell | 📅 2026-07-14 - Make a Ubiquiti EdgeOS image from a system tarball.
-* [hungnguyenm/edgemax-acme](https://github.com/hungnguyenm/edgemax-acme) ⭐ 157 | 🐛 5 | 🌐 Shell | 📅 2022-06-17 - Let's Encrypt setup instructions for Ubiquiti EdgeRouter using DNS-01.
+* [hungnguyenm/edgemax-acme](https://github.com/hungnguyenm/edgemax-acme) ⭐ 156 | 🐛 5 | 🌐 Shell | 📅 2022-06-17 - Let's Encrypt setup instructions for Ubiquiti EdgeRouter using DNS-01.
 * [Genghis1227/guide\_eap\_proxy](https://github.com/Genghis1227/guide_eap_proxy) ⭐ 62 | 🐛 0 | 📅 2021-01-29 - Instructions for AT\&T bypass using EdgeRouter Lite.
 * [Matthew1471/EdgeOS-API](https://github.com/Matthew1471/EdgeOS-API) ⭐ 54 | 🐛 1 | 🌐 C# | 📅 2023-01-31 - API wrapper for the Ubiquiti EdgeOS operating system.
 * [darkxst/erx-migration](https://github.com/darkxst/erx-migration) ⭐ 51 | 🐛 5 | 🌐 Shell | 📅 2025-04-16 - EdgeRouter X migration scripts for installing or upgrading to OpenWrt.
@@ -240,9 +240,9 @@ UniFi is a line of networking hardware and software by Ubiquiti Inc., including 
 
 ## MCP Servers
 
-* [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) ⭐ 809 | 🐛 22 | 🌐 Python | 📅 2026-09-10 - MCP server for the UniFi suite including Network, Protect, Access, and Drive.
-* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 275 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - MCP server for querying parsed UniFi firewall logs, threat intelligence, and network analytics.
-* [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) ⭐ 251 | 🐛 3 | 🌐 Python | 📅 2026-09-06 - MCP server that leverages the official UniFi API.
+* [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) ⭐ 813 | 🐛 22 | 🌐 Python | 📅 2026-09-10 - MCP server for the UniFi suite including Network, Protect, Access, and Drive.
+* [jmasarweh/Unifi-Log-Insights](https://github.com/jmasarweh/Unifi-Log-Insights) ⭐ 280 | 🐛 32 | 🌐 Python | 📅 2026-06-30 - MCP server for querying parsed UniFi firewall logs, threat intelligence, and network analytics.
+* [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2026-09-06 - MCP server that leverages the official UniFi API.
 * [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) ⭐ 43 | 🐛 18 | 🌐 Python | 📅 2026-06-20 - MCP servers for managing homelab infrastructure including UniFi networks.
 
 ## Guides & Documentation
@@ -265,4 +265,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
