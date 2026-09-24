@@ -127,32 +127,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "paultyng/go-unifi",
-              "description": "UniFi Controller API SDK for Go.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Unifi Controller API SDK for Go",
-                "homepage": null,
-                "id": 233111588,
-                "language": "Go",
-                "license": "MPL-2.0",
-                "last_commit": "2026-04-28T12:44:37Z",
-                "open_issues": 14,
-                "owner": "paultyng",
-                "repo": "go-unifi",
-                "stars": 189,
-                "topics": [
-                  "sdk",
-                  "sdk-go",
-                  "ubiquiti",
-                  "unifi"
-                ]
-              },
-              "first_seen": "2026-08-28T04:32:09.037Z"
-            },
-            {
-              "node_type": "item",
               "title": "unpoller/unifi",
               "description": "Go library to grab data from a Ubiquiti UniFi Controller (companion library used by UnPoller).",
               "children": [],
@@ -198,6 +172,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:32:09.037Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ubiquiti-community/go-unifi",
+              "description": "UniFi Controller API SDK for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unifi Controller API SDK for Go",
+                "homepage": null,
+                "id": 811466069,
+                "language": "Go",
+                "license": "MPL-2.0",
+                "last_commit": "2026-09-23T03:31:02Z",
+                "open_issues": 4,
+                "owner": "ubiquiti-community",
+                "repo": "go-unifi",
+                "stars": 11,
+                "topics": [
+                  "client",
+                  "go",
+                  "go-client",
+                  "gol",
+                  "network",
+                  "unifi"
+                ]
+              },
+              "first_seen": "2026-09-24T23:32:15.612Z"
             }
           ],
           "description": null,
@@ -378,7 +380,7 @@
             "open_issues": 0,
             "owner": "unifi-utilities",
             "repo": "unifi-common",
-            "stars": 4369,
+            "stars": 4372,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -427,11 +429,11 @@
             "id": 1112791885,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T19:31:35Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-24T20:26:56Z",
+            "open_issues": 73,
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 1018,
+            "stars": 1020,
             "topics": [
               "bufferbloat",
               "crowdsec",
@@ -526,7 +528,7 @@
             "id": 1107824454,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T16:13:28Z",
+            "last_commit": "2026-09-24T22:31:44Z",
             "open_issues": 5,
             "owner": "Crosstalk-Solutions",
             "repo": "unifi-toolkit",
@@ -551,7 +553,7 @@
             "open_issues": 2,
             "owner": "hyperb1iss",
             "repo": "unifly",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "agent-skills",
               "cli",
@@ -918,8 +920,8 @@
                 "id": 130408606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-18T22:09:00Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-24T01:00:54Z",
+                "open_issues": 2,
                 "owner": "unpoller",
                 "repo": "unpoller",
                 "stars": 2715,
@@ -1106,11 +1108,11 @@
                 "id": 916252207,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T23:01:52Z",
-                "open_issues": 323,
+                "last_commit": "2026-09-24T23:07:34Z",
+                "open_issues": 336,
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 915,
+                "stars": 917,
                 "topics": [
                   "armis",
                   "causal-discovery",
@@ -1298,11 +1300,11 @@
                 "id": 917968755,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T21:11:01Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-24T22:42:29Z",
+                "open_issues": 14,
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -1453,8 +1455,8 @@
                 "id": 77393072,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T20:07:11Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-24T22:10:26Z",
+                "open_issues": 39,
                 "owner": "iobroker-community-adapters",
                 "repo": "ioBroker.unifi",
                 "stars": 67,
@@ -1602,6 +1604,27 @@
             ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
+        },
+        {
+          "node_type": "item",
+          "title": "uilibs/uiprotect",
+          "description": "Python API for UniFi Protect (unofficial).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python API for UniFi Protect (Unofficial)",
+            "homepage": null,
+            "id": 812690820,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-24T20:02:24Z",
+            "open_issues": 13,
+            "owner": "uilibs",
+            "repo": "uiprotect",
+            "stars": 103,
+            "topics": []
+          },
+          "first_seen": "2026-09-24T23:32:15.612Z"
         }
       ],
       "title": "UniFi Protect"
@@ -1708,29 +1731,29 @@
       "items": [
         {
           "node_type": "item",
-          "title": "paultyng/terraform-provider-unifi",
+          "title": "ubiquiti-community/terraform-provider-unifi",
           "description": "Terraform provider for UniFi.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "Terraform provider for Unifi :satellite:",
-            "homepage": "https://registry.terraform.io/providers/paultyng/unifi/latest/docs",
-            "id": 229852889,
+            "homepage": "https://registry.terraform.io/providers/ubiquiti-community/unifi/latest/docs",
+            "id": 828166389,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-04-28T12:51:06Z",
-            "open_issues": 75,
-            "owner": "paultyng",
+            "last_commit": "2026-09-24T15:42:10Z",
+            "open_issues": 25,
+            "owner": "ubiquiti-community",
             "repo": "terraform-provider-unifi",
-            "stars": 580,
+            "stars": 146,
             "topics": [
+              "homelab",
               "terraform",
-              "terraform-provider",
-              "ubiquiti",
-              "unifi"
+              "unifi",
+              "unifi-controller"
             ]
           },
-          "first_seen": "2026-08-28T04:32:09.037Z"
+          "first_seen": "2026-09-24T23:32:15.612Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1797,7 @@
             "id": 1142058328,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:51:05Z",
+            "last_commit": "2026-09-24T13:15:17Z",
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
@@ -1810,7 +1833,7 @@
             "open_issues": 32,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1827,7 +1850,7 @@
             "id": 1141925141,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:51:06Z",
+            "last_commit": "2026-09-24T22:24:20Z",
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-bouncer",
@@ -2027,7 +2050,7 @@
             "id": 454939484,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T20:03:11Z",
+            "last_commit": "2026-09-24T04:49:21Z",
             "open_issues": 7,
             "owner": "willswire",
             "repo": "unifi-ddns",
@@ -2057,7 +2080,7 @@
             "id": 805039694,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T09:47:58Z",
+            "last_commit": "2026-09-24T19:19:56Z",
             "open_issues": 2,
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
@@ -2119,7 +2142,7 @@
             "open_issues": 2,
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1727,
+            "stars": 1731,
             "topics": [
               "tailscale",
               "udm",
@@ -2172,7 +2195,7 @@
             "open_issues": 40,
             "owner": "peacey",
             "repo": "split-vpn",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "ipv6-support",
               "openvpn",
@@ -2387,31 +2410,6 @@
               "nodejs",
               "unifi",
               "unifi-voucher-site"
-            ]
-          },
-          "first_seen": "2026-08-28T04:32:09.037Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DJM0/unifi-voucher-generator",
-          "description": "Generate printable UniFi Hotspot vouchers via the Controller API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Generates UniFi Hotspot vouchers using the UniFi controller API ready for printing",
-            "homepage": null,
-            "id": 4183182,
-            "language": "Shell",
-            "license": "Unlicense",
-            "last_commit": "2026-03-18T22:19:49Z",
-            "open_issues": 2,
-            "owner": "DJM0",
-            "repo": "unifi-voucher-generator",
-            "stars": 94,
-            "topics": [
-              "ubiquiti",
-              "unifi",
-              "voucher"
             ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2845,36 +2843,6 @@
         },
         {
           "node_type": "item",
-          "title": "whi-tw/macvlan-unifios",
-          "description": "Macvlan kernel module for UniFi OS devices.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "macvlan kernel module for UniFi OS devices",
-            "homepage": null,
-            "id": 574935953,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2024-06-08T13:58:27Z",
-            "open_issues": 18,
-            "owner": "whi-tw",
-            "repo": "macvlan-unifios",
-            "stars": 23,
-            "topics": [
-              "kernel-module",
-              "linux",
-              "udm",
-              "udm-pro",
-              "udm-se",
-              "udr",
-              "unifi",
-              "unifi-os"
-            ]
-          },
-          "first_seen": "2026-08-28T04:32:09.037Z"
-        },
-        {
-          "node_type": "item",
           "title": "xpherism/udm-proxy",
           "description": "Caddy proxy for Ubiquiti UDM Pro.",
           "children": [],
@@ -3187,11 +3155,11 @@
             "id": 1078608430,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:04:13Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-24T17:01:50Z",
+            "open_issues": 4,
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 268,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -3397,7 +3365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:13:32.008Z",
+    "last_updated": "2026-09-24T23:32:15.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources",
@@ -3405,7 +3373,7 @@
       "id": 1158881005,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-23T19:51:09Z",
+      "last_commit": "2026-09-24T22:18:58Z",
       "open_issues": 0,
       "owner": "wolffcatskyy",
       "repo": "awesome-unifi",
@@ -3421,7 +3389,7 @@
         "unifi-controller"
       ]
     },
-    "original_repository_sha": "c4e5971c1729d2cfba2a3134160878a6753da464",
+    "original_repository_sha": "4bf9b98e244c57eb16627909a5155038eab4a22c",
     "enhanced_repository": "enhansome/enhansome-unifi",
     "enhanced_repository_description": null,
     "title": "Awesome UniFi with stars"
