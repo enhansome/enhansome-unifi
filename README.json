@@ -99,7 +99,7 @@
                 "id": 350072947,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T03:55:38Z",
+                "last_commit": "2026-09-25T21:16:39Z",
                 "open_issues": 14,
                 "owner": "thib3113",
                 "repo": "unifi-client",
@@ -366,7 +366,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "unifi-utilities/unifios-utilities",
+          "title": "unifi-utilities/unifi-common",
           "description": "Community collection of utilities and enhancements for UniFi OS.",
           "children": [],
           "repo_info": {
@@ -429,8 +429,8 @@
             "id": 1112791885,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T20:26:56Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-25T21:29:32Z",
+            "open_issues": 72,
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
             "stars": 1020,
@@ -550,7 +550,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "hyperb1iss",
             "repo": "unifly",
             "stars": 260,
@@ -920,11 +920,11 @@
                 "id": 130408606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T01:00:54Z",
+                "last_commit": "2026-09-25T22:50:41Z",
                 "open_issues": 2,
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2715,
+                "stars": 2714,
                 "topics": [
                   "cloudkey",
                   "grafana-dashboard",
@@ -1108,11 +1108,11 @@
                 "id": 916252207,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:07:34Z",
-                "open_issues": 336,
+                "last_commit": "2026-09-25T22:43:49Z",
+                "open_issues": 340,
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "armis",
                   "causal-discovery",
@@ -1153,7 +1153,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "hassio-addons/addon-unifi",
+              "title": "hassio-addons/app-unifi",
               "description": "UniFi Network Application - Home Assistant Community Add-ons.",
               "children": [],
               "repo_info": {
@@ -1244,7 +1244,7 @@
                 "id": 651580675,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:12:47Z",
+                "last_commit": "2026-09-25T10:53:09Z",
                 "open_issues": 1,
                 "owner": "ufozone",
                 "repo": "ha-unifi-voucher",
@@ -1300,8 +1300,8 @@
                 "id": 917968755,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T22:42:29Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-25T22:43:13Z",
+                "open_issues": 4,
                 "owner": "ruaan-deysel",
                 "repo": "ha-unifi-insights",
                 "stars": 44,
@@ -1390,7 +1390,7 @@
                 "open_issues": 2,
                 "owner": "hjdhjd",
                 "repo": "homebridge-unifi-protect",
-                "stars": 1785,
+                "stars": 1786,
                 "topics": [
                   "camera",
                   "cameras",
@@ -1519,7 +1519,7 @@
             "open_issues": 20,
             "owner": "ep1cman",
             "repo": "unifi-protect-backup",
-            "stars": 870,
+            "stars": 871,
             "topics": [
               "python",
               "python3",
@@ -1617,8 +1617,8 @@
             "id": 812690820,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:02:24Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-25T20:58:07Z",
+            "open_issues": 15,
             "owner": "uilibs",
             "repo": "uiprotect",
             "stars": 103,
@@ -1741,8 +1741,8 @@
             "id": 828166389,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T15:42:10Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-25T13:34:04Z",
+            "open_issues": 24,
             "owner": "ubiquiti-community",
             "repo": "terraform-provider-unifi",
             "stars": 146,
@@ -1792,24 +1792,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 36 free threat feeds",
+            "description": "10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds",
             "homepage": "https://wolffcatskyy.dev",
             "id": 1142058328,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:15:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-25T07:20:48Z",
+            "open_issues": 1,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
             "stars": 364,
             "topics": [
               "blocklist",
               "crowdsec",
+              "crowdsec-blocklist",
               "cybersecurity",
               "docker",
               "firewall",
+              "homelab",
               "ip-blocklist",
               "security",
+              "self-hosted",
               "threat-feeds",
               "threat-intelligence",
               "tor-exit-nodes"
@@ -1840,6 +1843,27 @@
         },
         {
           "node_type": "item",
+          "title": "Teifun2/cs-unifi-bouncer",
+          "description": "CrowdSec bouncer for UniFi gateways that populates firewall address lists via the UniFi API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 910917781,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-04-06T08:56:20Z",
+            "open_issues": 10,
+            "owner": "Teifun2",
+            "repo": "cs-unifi-bouncer",
+            "stars": 120,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T23:36:34.869Z"
+        },
+        {
+          "node_type": "item",
           "title": "wolffcatskyy/crowdsec-unifi-bouncer",
           "description": "Install and persist the official CrowdSec firewall bouncer on UniFi OS devices.",
           "children": [],
@@ -1850,7 +1874,7 @@
             "id": 1141925141,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:24:20Z",
+            "last_commit": "2026-09-25T08:28:59Z",
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-bouncer",
@@ -1858,18 +1882,22 @@
             "topics": [
               "bash",
               "crowdsec",
+              "crowdsec-blocklist",
               "crowdsec-bouncer",
               "firewall",
+              "homelab",
               "ip-blocklist",
               "ipset",
               "iptables",
               "network-security",
               "security",
+              "self-hosted",
               "threat-intelligence",
               "ubiquiti",
               "udm-pro",
               "unifi",
-              "unifi-dream-machine"
+              "unifi-dream-machine",
+              "unifi-os"
             ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1979,7 +2007,7 @@
             "id": 1148977841,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:51:07Z",
+            "last_commit": "2026-09-25T07:27:54Z",
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-parser",
@@ -1988,15 +2016,18 @@
               "crowdsec",
               "crowdsec-parser",
               "firewall",
+              "homelab",
               "iptables",
               "network-security",
               "security",
+              "self-hosted",
               "syslog",
               "threat-detection",
               "ubiquiti",
               "udm-pro",
               "unifi",
-              "unifi-dream-machine"
+              "unifi-dream-machine",
+              "unifi-os"
             ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2013,13 +2044,14 @@
             "id": 1162108700,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:51:08Z",
+            "last_commit": "2026-09-25T03:10:10Z",
             "open_issues": 0,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-suite",
             "stars": 8,
             "topics": [
               "crowdsec",
+              "crowdsec-blocklist",
               "firewall",
               "homelab",
               "installer",
@@ -2027,10 +2059,32 @@
               "self-hosted",
               "ubiquiti",
               "udm",
-              "unifi"
+              "unifi",
+              "unifi-os"
             ]
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
+        },
+        {
+          "node_type": "item",
+          "title": "developingchet/cs-unifi-bouncer-pro",
+          "description": "Production-grade CrowdSec bouncer for UniFi network controllers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Production-grade CrowdSec bouncer for UniFi network controllers",
+            "homepage": null,
+            "id": 1176252880,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-25T23:01:33Z",
+            "open_issues": 1,
+            "owner": "developingchet",
+            "repo": "cs-unifi-bouncer-pro",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T23:36:34.869Z"
         }
       ],
       "title": "Security Tools"
@@ -2050,7 +2104,7 @@
             "id": 454939484,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:49:21Z",
+            "last_commit": "2026-09-25T21:59:04Z",
             "open_issues": 7,
             "owner": "willswire",
             "repo": "unifi-ddns",
@@ -2070,7 +2124,7 @@
         },
         {
           "node_type": "item",
-          "title": "kashalls/external-dns-unifi-webhook",
+          "title": "home-operations/external-dns-unifi-webhook",
           "description": "External-DNS Webhook to manage UniFi DNS Records.",
           "children": [],
           "repo_info": {
@@ -2128,7 +2182,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "SierraSoftworks/tailscale-udm",
+          "title": "SierraSoftworks/tailscale-unifi",
           "description": "Run Tailscale on your UniFi Dream Machine.",
           "children": [],
           "repo_info": {
@@ -2142,7 +2196,7 @@
             "open_issues": 2,
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1731,
+            "stars": 1732,
             "topics": [
               "tailscale",
               "udm",
@@ -2525,7 +2579,7 @@
             "language": "Shell",
             "license": "GPL-2.0",
             "last_commit": "2025-06-22T15:26:12Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "fabianishere",
             "repo": "udm-iptv",
             "stars": 630,
@@ -2590,7 +2644,7 @@
         },
         {
           "node_type": "item",
-          "title": "iceteaSA/ucg-max-fan-control",
+          "title": "iceteaSA/unifi-fan-control",
           "description": "UXG-Max/Fibre Dynamic Fan Control.",
           "children": [],
           "repo_info": {
@@ -2811,8 +2865,8 @@
             "id": 223816147,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:34:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-25T16:33:52Z",
+            "open_issues": 5,
             "owner": "scyto",
             "repo": "multicast-relay",
             "stars": 65,
@@ -2888,6 +2942,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fbernier/udm-cake",
+          "description": "CAKE traffic shaping for UniFi Dream Machine routers (SQM, latency control under load).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The CAKE is not a lie",
+            "homepage": null,
+            "id": 1379907915,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-21T15:38:24Z",
+            "open_issues": 0,
+            "owner": "fbernier",
+            "repo": "udm-cake",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T23:36:34.869Z"
         }
       ],
       "title": "Dream Machine Utilities"
@@ -3125,11 +3200,11 @@
             "id": 970267776,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T23:18:07Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-25T18:24:34Z",
+            "open_issues": 24,
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 845,
+            "stars": 847,
             "topics": [
               "agentic-ai",
               "home-automation",
@@ -3159,7 +3234,7 @@
             "open_issues": 4,
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -3212,8 +3287,8 @@
             "id": 1193116172,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T10:52:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-25T07:39:47Z",
+            "open_issues": 2,
             "owner": "KallistoX",
             "repo": "mcp-unifi-applications",
             "stars": 37,
@@ -3309,7 +3384,7 @@
         },
         {
           "node_type": "item",
-          "title": "mzac/unifi-pfsense-tailscale",
+          "title": "mzac/unifi-debian-tailscale-bgp",
           "description": "Documentation on how to integrate UniFi with pfSense and Tailscale.",
           "children": [],
           "repo_info": {
@@ -3365,16 +3440,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:32:15.612Z",
+    "last_updated": "2026-09-25T23:36:34.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources",
       "homepage": "https://wolffcatskyy.dev",
       "id": 1158881005,
-      "language": null,
+      "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-24T22:18:58Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-25T05:32:14Z",
+      "open_issues": 2,
       "owner": "wolffcatskyy",
       "repo": "awesome-unifi",
       "stars": 73,
@@ -3384,12 +3459,14 @@
         "dream-machine",
         "homelab",
         "networking",
+        "self-hosted",
         "ubiquiti",
         "unifi",
-        "unifi-controller"
+        "unifi-controller",
+        "unifi-os"
       ]
     },
-    "original_repository_sha": "4bf9b98e244c57eb16627909a5155038eab4a22c",
+    "original_repository_sha": "a0699275a2117c1f02badc49661ece12ac07c901",
     "enhanced_repository": "enhansome/enhansome-unifi",
     "enhanced_repository_description": null,
     "title": "Awesome UniFi with stars"
