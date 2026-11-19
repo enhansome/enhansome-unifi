@@ -189,7 +189,7 @@
                 "open_issues": 6,
                 "owner": "ubiquiti-community",
                 "repo": "go-unifi",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "client",
                   "go",
@@ -380,7 +380,7 @@
             "open_issues": 0,
             "owner": "unifi-utilities",
             "repo": "unifi-common",
-            "stars": 4394,
+            "stars": 4393,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -397,11 +397,11 @@
             "id": 1112791885,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T02:10:54Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-19T01:59:35Z",
+            "open_issues": 93,
             "owner": "Ozark-Connect",
             "repo": "NetworkOptimizer",
-            "stars": 1320,
+            "stars": 1324,
             "topics": [
               "bufferbloat",
               "crowdsec",
@@ -550,7 +550,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T08:22:51Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "hyperb1iss",
             "repo": "unifly",
             "stars": 278,
@@ -749,8 +749,8 @@
             "id": 30978978,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-14T03:06:00Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-18T03:06:56Z",
+            "open_issues": 19,
             "owner": "jacobalberty",
             "repo": "unifi-docker",
             "stars": 2628,
@@ -774,7 +774,7 @@
             "open_issues": 2,
             "owner": "linuxserver",
             "repo": "docker-unifi-network-application",
-            "stars": 1187,
+            "stars": 1188,
             "topics": [
               "hacktoberfest"
             ]
@@ -924,7 +924,7 @@
                 "open_issues": 5,
                 "owner": "unpoller",
                 "repo": "unpoller",
-                "stars": 2747,
+                "stars": 2748,
                 "topics": [
                   "cloudkey",
                   "grafana-dashboard",
@@ -1108,11 +1108,11 @@
                 "id": 916252207,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T02:23:44Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-19T00:55:06Z",
+                "open_issues": 333,
                 "owner": "carverauto",
                 "repo": "serviceradar",
-                "stars": 934,
+                "stars": 936,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -1296,11 +1296,11 @@
                 "id": 917968755,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T01:32:15Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-18T04:02:30Z",
+                "open_issues": 4,
                 "owner": "tinkerologie",
                 "repo": "ha-unifi-insights",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -1494,7 +1494,7 @@
             "open_issues": 2,
             "owner": "keshavdv",
             "repo": "unifi-cam-proxy",
-            "stars": 1872,
+            "stars": 1873,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1543,7 +1543,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-10T15:17:14Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "danielfernau",
             "repo": "unifi-protect-video-downloader",
             "stars": 515,
@@ -1614,7 +1614,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T21:24:25Z",
-            "open_issues": 10,
+            "open_issues": 13,
             "owner": "uilibs",
             "repo": "uiprotect",
             "stars": 106,
@@ -1741,7 +1741,7 @@
             "open_issues": 19,
             "owner": "ubiquiti-community",
             "repo": "terraform-provider-unifi",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "homelab",
               "terraform",
@@ -1797,7 +1797,7 @@
             "open_issues": 6,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "blocklist",
               "crowdsec",
@@ -1832,7 +1832,7 @@
             "open_issues": 28,
             "owner": "jmasarweh",
             "repo": "UniFi-Insights-Plus",
-            "stars": 318,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -1849,7 +1849,7 @@
             "id": 910917781,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:19:58Z",
+            "last_commit": "2026-11-18T19:55:06Z",
             "open_issues": 9,
             "owner": "Teifun2",
             "repo": "cs-unifi-bouncer",
@@ -1870,7 +1870,7 @@
             "id": 1141925141,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T10:38:47Z",
+            "last_commit": "2026-11-18T10:14:44Z",
             "open_issues": 3,
             "owner": "wolffcatskyy",
             "repo": "crowdsec-unifi-bouncer",
@@ -2100,7 +2100,7 @@
             "id": 454939484,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T15:57:46Z",
+            "last_commit": "2026-11-18T12:12:22Z",
             "open_issues": 8,
             "owner": "willswire",
             "repo": "unifi-ddns",
@@ -2130,7 +2130,7 @@
             "id": 805039694,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T02:08:52Z",
+            "last_commit": "2026-11-18T22:34:57Z",
             "open_issues": 2,
             "owner": "home-operations",
             "repo": "external-dns-unifi-webhook",
@@ -2192,7 +2192,7 @@
             "open_issues": 0,
             "owner": "SierraSoftworks",
             "repo": "tailscale-unifi",
-            "stars": 1810,
+            "stars": 1811,
             "topics": [
               "tailscale",
               "udm",
@@ -2516,7 +2516,7 @@
             "open_issues": 2,
             "owner": "Carlgo11",
             "repo": "guest-portal",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "docker",
               "guest-portal",
@@ -2606,7 +2606,7 @@
             "open_issues": 3,
             "owner": "IngmarStein",
             "repo": "unifi-sonos-doc",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -2654,7 +2654,7 @@
             "open_issues": 0,
             "owner": "iceteaSA",
             "repo": "unifi-fan-control",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "adaptive-fan-control",
               "bash",
@@ -2830,27 +2830,6 @@
         },
         {
           "node_type": "item",
-          "title": "blackjid/inadyn-cloudflare",
-          "description": "Cloudflare Dynamic DNS backend for Inadyn - for use with UniFi Dream Machine / Pro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cloudflare Dynamic DNS backend for Inadyn. To use with Unifi Dream Machine / Pro",
-            "homepage": null,
-            "id": 280536326,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-08-28T15:58:30Z",
-            "open_issues": 2,
-            "owner": "blackjid",
-            "repo": "inadyn-cloudflare",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:32:09.037Z"
-        },
-        {
-          "node_type": "item",
           "title": "scyto/multicast-relay",
           "description": "Multicast-relay Docker for UniFi Dream Machines.",
           "children": [],
@@ -2865,6 +2844,27 @@
             "open_issues": 5,
             "owner": "scyto",
             "repo": "multicast-relay",
+            "stars": 68,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:32:09.037Z"
+        },
+        {
+          "node_type": "item",
+          "title": "blackjid/inadyn-cloudflare",
+          "description": "Cloudflare Dynamic DNS backend for Inadyn - for use with UniFi Dream Machine / Pro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cloudflare Dynamic DNS backend for Inadyn. To use with Unifi Dream Machine / Pro",
+            "homepage": null,
+            "id": 280536326,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-08-28T15:58:30Z",
+            "open_issues": 2,
+            "owner": "blackjid",
+            "repo": "inadyn-cloudflare",
             "stars": 67,
             "topics": []
           },
@@ -3197,10 +3197,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T13:11:12Z",
-            "open_issues": 13,
+            "open_issues": 27,
             "owner": "sirkirby",
             "repo": "unifi-mcp",
-            "stars": 1089,
+            "stars": 1091,
             "topics": [
               "agentic-ai",
               "home-automation",
@@ -3230,7 +3230,7 @@
             "open_issues": 6,
             "owner": "enuno",
             "repo": "unifi-mcp-server",
-            "stars": 363,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T04:32:09.037Z"
@@ -3251,7 +3251,7 @@
             "open_issues": 18,
             "owner": "bjeans",
             "repo": "homelab-mcp",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "ansible",
               "automation",
@@ -3348,7 +3348,7 @@
             "id": 1122962211,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-17T06:00:19Z",
+            "last_commit": "2026-11-18T06:00:19Z",
             "open_issues": 0,
             "owner": "beezly",
             "repo": "unifi-apis",
@@ -3436,7 +3436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:37:15.090Z",
+    "last_updated": "2026-11-19T02:03:04.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources",
